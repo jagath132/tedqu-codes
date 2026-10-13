@@ -1,0 +1,1931 @@
+[2026-08-03 23:08:07] INFO: Starting Automation...
+[2026-08-03 23:15:05] INFO: Starting Automation...
+[2026-08-03 23:15:06] INFO: Excel Loaded Successfully
+[2026-08-03 23:15:06] INFO: Total Records : 16
+[2026-08-03 23:15:06] INFO: Navigating to Login Page...
+[2026-08-03 23:15:12] INFO: Entering credentials...
+[2026-08-03 23:15:27] ERROR: Login failed: page.fill: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('#username')[22m
+
+[2026-08-03 23:18:39] INFO: Starting Automation...
+[2026-08-03 23:18:40] INFO: Excel Loaded Successfully
+[2026-08-03 23:18:40] INFO: Total Records : 16
+[2026-08-03 23:18:40] INFO: Navigating to Login Page...
+[2026-08-03 23:18:42] INFO: Entering credentials...
+[2026-08-03 23:18:42] INFO: Clicking Login button...
+[2026-08-03 23:18:43] INFO: Login successful.
+[2026-08-03 23:18:43] INFO: Navigating to Subjects Section...
+[2026-08-03 23:18:43] INFO: Already on Subjects page.
+[2026-08-03 23:18:43] INFO: Processing Row 2: ENGLISH READING LOBES
+[2026-08-03 23:18:58] ERROR: Error while creating subject 'ENGLISH READING LOBES': page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('a:has-text("Add subject"), button:has-text("Add New Subject"), .addlink') to be visible[22m
+
+[2026-08-03 23:18:58] ERROR: Row 2: FAILED
+[2026-08-03 23:18:59] INFO: Processing Row 3: ENGLISH SPEAKING
+[2026-08-03 23:19:14] ERROR: Error while creating subject 'ENGLISH SPEAKING': page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('a:has-text("Add subject"), button:has-text("Add New Subject"), .addlink') to be visible[22m
+
+[2026-08-03 23:19:14] ERROR: Row 3: FAILED
+[2026-08-03 23:19:14] INFO: Processing Row 4: ENGLISH WRITING
+[2026-08-03 23:19:15] ERROR: Error while creating subject 'ENGLISH WRITING': page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('a:has-text("Add subject"), button:has-text("Add New Subject"), .addlink') to be visible[22m
+
+[2026-08-03 23:19:15] ERROR: Row 4: FAILED
+[2026-08-03 23:19:15] INFO: Processing Row 5: STRUCTURAL CONVERSATION
+[2026-08-03 23:19:15] ERROR: Error while creating subject 'STRUCTURAL CONVERSATION': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:19:15] ERROR: Row 5: FAILED
+[2026-08-03 23:19:15] INFO: Processing Row 6: READING LIBRARY
+[2026-08-03 23:19:15] ERROR: Error while creating subject 'READING LIBRARY': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:19:15] ERROR: Row 6: FAILED
+[2026-08-03 23:19:15] INFO: Processing Row 7: ARABIC READING
+[2026-08-03 23:19:15] ERROR: Error while creating subject 'ARABIC READING': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:19:15] ERROR: Row 7: FAILED
+[2026-08-03 23:19:15] INFO: Processing Row 8: ARABIC WRITING
+[2026-08-03 23:19:15] ERROR: Error while creating subject 'ARABIC WRITING': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:19:15] ERROR: Row 8: FAILED
+[2026-08-03 23:19:15] INFO: Processing Row 9: ARABIC GRAMMAR
+[2026-08-03 23:19:15] ERROR: Error while creating subject 'ARABIC GRAMMAR': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:19:15] ERROR: Row 9: FAILED
+[2026-08-03 23:19:15] INFO: Processing Row 10: SKILLO MATHS
+[2026-08-03 23:19:15] ERROR: Error while creating subject 'SKILLO MATHS': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:19:15] ERROR: Row 10: FAILED
+[2026-08-03 23:19:15] INFO: Processing Row 11: QURAN
+[2026-08-03 23:19:15] ERROR: Error while creating subject 'QURAN': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:19:15] ERROR: Row 11: FAILED
+[2026-08-03 23:19:15] INFO: Processing Row 12: SEERAH
+[2026-08-03 23:19:15] ERROR: Error while creating subject 'SEERAH': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:19:15] ERROR: Row 12: FAILED
+[2026-08-03 23:19:15] INFO: Processing Row 13: ISLAMIC STUDIES
+[2026-08-03 23:19:15] ERROR: Error while creating subject 'ISLAMIC STUDIES': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:19:15] ERROR: Row 13: FAILED
+[2026-08-03 23:19:15] INFO: Processing Row 14: URDU
+[2026-08-03 23:19:15] ERROR: Error while creating subject 'URDU': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:19:15] ERROR: Row 14: FAILED
+[2026-08-03 23:19:15] INFO: Processing Row 15: AGILITY GAMES
+[2026-08-03 23:19:15] ERROR: Error while creating subject 'AGILITY GAMES': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:19:15] ERROR: Row 15: FAILED
+[2026-08-03 23:19:15] INFO: Processing Row 16: COURSE ENGLISH
+[2026-08-03 23:19:15] ERROR: Error while creating subject 'COURSE ENGLISH': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:19:15] ERROR: Row 16: FAILED
+[2026-08-03 23:19:15] INFO: Processing Row 17: COURSE STATE LANGUAGE
+[2026-08-03 23:19:15] ERROR: Error while creating subject 'COURSE STATE LANGUAGE': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:19:15] ERROR: Row 17: FAILED
+[2026-08-03 23:19:15] INFO: Report generated successfully at: D:\play\reports\SubjectCreation_Report.xlsx
+[2026-08-03 23:22:28] INFO: Starting Automation...
+[2026-08-03 23:22:29] INFO: Excel Loaded Successfully
+[2026-08-03 23:22:29] INFO: Total Records : 16
+[2026-08-03 23:22:29] INFO: Navigating to Login Page...
+[2026-08-03 23:22:31] INFO: Entering credentials...
+[2026-08-03 23:22:32] INFO: Clicking Login button...
+[2026-08-03 23:22:35] INFO: Login successful.
+[2026-08-03 23:22:35] INFO: Navigating to Subjects Section...
+[2026-08-03 23:22:35] INFO: Already on Subjects page.
+[2026-08-03 23:22:35] INFO: Processing Row 2: ENGLISH READING LOBES
+[2026-08-03 23:22:42] ERROR: Row 2: FAILED
+[2026-08-03 23:22:42] INFO: Processing Row 3: ENGLISH SPEAKING
+[2026-08-03 23:22:49] ERROR: Row 3: FAILED
+[2026-08-03 23:22:49] INFO: Processing Row 4: ENGLISH WRITING
+[2026-08-03 23:22:53] ERROR: Row 4: FAILED
+[2026-08-03 23:22:53] INFO: Processing Row 5: STRUCTURAL CONVERSATION
+[2026-08-03 23:22:53] ERROR: Error while creating subject 'STRUCTURAL CONVERSATION': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:22:53] ERROR: Row 5: FAILED
+[2026-08-03 23:22:53] INFO: Processing Row 6: READING LIBRARY
+[2026-08-03 23:22:53] ERROR: Error while creating subject 'READING LIBRARY': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:22:53] ERROR: Row 6: FAILED
+[2026-08-03 23:22:53] INFO: Processing Row 7: ARABIC READING
+[2026-08-03 23:22:53] ERROR: Error while creating subject 'ARABIC READING': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:22:53] ERROR: Row 7: FAILED
+[2026-08-03 23:22:53] INFO: Processing Row 8: ARABIC WRITING
+[2026-08-03 23:22:53] ERROR: Error while creating subject 'ARABIC WRITING': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:22:53] ERROR: Row 8: FAILED
+[2026-08-03 23:22:53] INFO: Processing Row 9: ARABIC GRAMMAR
+[2026-08-03 23:22:53] ERROR: Error while creating subject 'ARABIC GRAMMAR': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:22:53] ERROR: Row 9: FAILED
+[2026-08-03 23:22:53] INFO: Processing Row 10: SKILLO MATHS
+[2026-08-03 23:22:53] ERROR: Error while creating subject 'SKILLO MATHS': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:22:53] ERROR: Row 10: FAILED
+[2026-08-03 23:22:53] INFO: Processing Row 11: QURAN
+[2026-08-03 23:22:53] ERROR: Error while creating subject 'QURAN': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:22:53] ERROR: Row 11: FAILED
+[2026-08-03 23:22:53] INFO: Processing Row 12: SEERAH
+[2026-08-03 23:22:53] ERROR: Error while creating subject 'SEERAH': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:22:53] ERROR: Row 12: FAILED
+[2026-08-03 23:22:53] INFO: Processing Row 13: ISLAMIC STUDIES
+[2026-08-03 23:22:53] ERROR: Error while creating subject 'ISLAMIC STUDIES': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:22:53] ERROR: Row 13: FAILED
+[2026-08-03 23:22:53] INFO: Processing Row 14: URDU
+[2026-08-03 23:22:53] ERROR: Error while creating subject 'URDU': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:22:53] ERROR: Row 14: FAILED
+[2026-08-03 23:22:53] INFO: Processing Row 15: AGILITY GAMES
+[2026-08-03 23:22:53] ERROR: Error while creating subject 'AGILITY GAMES': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:22:53] ERROR: Row 15: FAILED
+[2026-08-03 23:22:53] INFO: Processing Row 16: COURSE ENGLISH
+[2026-08-03 23:22:53] ERROR: Error while creating subject 'COURSE ENGLISH': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:22:53] ERROR: Row 16: FAILED
+[2026-08-03 23:22:53] INFO: Processing Row 17: COURSE STATE LANGUAGE
+[2026-08-03 23:22:53] ERROR: Error while creating subject 'COURSE STATE LANGUAGE': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:22:53] ERROR: Row 17: FAILED
+[2026-08-03 23:22:53] INFO: Report generated successfully at: D:\play\reports\SubjectCreation_Report.xlsx
+[2026-08-03 23:28:23] INFO: Starting Automation...
+[2026-08-03 23:29:08] INFO: Starting Automation...
+[2026-08-03 23:29:09] INFO: Excel Loaded Successfully
+[2026-08-03 23:29:09] INFO: Total Records : 16
+[2026-08-03 23:29:09] INFO: Navigating to Login Page...
+[2026-08-03 23:29:13] INFO: Entering credentials...
+[2026-08-03 23:29:13] INFO: Clicking Login button...
+[2026-08-03 23:29:20] INFO: Login successful.
+[2026-08-03 23:29:20] INFO: Navigating to Subjects Section...
+[2026-08-03 23:29:20] INFO: Already on Subjects page.
+[2026-08-03 23:29:20] INFO: Processing Row 2: ENGLISH READING LOBES
+[2026-08-03 23:29:27] ERROR: Row 2: FAILED
+[2026-08-03 23:29:27] INFO: Processing Row 3: ENGLISH SPEAKING
+[2026-08-03 23:29:33] ERROR: Row 3: FAILED
+[2026-08-03 23:29:33] INFO: Processing Row 4: ENGLISH WRITING
+[2026-08-03 23:29:33] ERROR: Error while creating subject 'ENGLISH WRITING': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:29:33] ERROR: Row 4: FAILED
+[2026-08-03 23:29:33] INFO: Processing Row 5: STRUCTURAL CONVERSATION
+[2026-08-03 23:29:33] ERROR: Error while creating subject 'STRUCTURAL CONVERSATION': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:29:33] ERROR: Row 5: FAILED
+[2026-08-03 23:29:33] INFO: Processing Row 6: READING LIBRARY
+[2026-08-03 23:29:33] ERROR: Error while creating subject 'READING LIBRARY': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:29:33] ERROR: Row 6: FAILED
+[2026-08-03 23:29:33] INFO: Processing Row 7: ARABIC READING
+[2026-08-03 23:29:33] ERROR: Error while creating subject 'ARABIC READING': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:29:33] ERROR: Row 7: FAILED
+[2026-08-03 23:29:33] INFO: Processing Row 8: ARABIC WRITING
+[2026-08-03 23:29:33] ERROR: Error while creating subject 'ARABIC WRITING': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:29:33] ERROR: Row 8: FAILED
+[2026-08-03 23:29:33] INFO: Processing Row 9: ARABIC GRAMMAR
+[2026-08-03 23:29:33] ERROR: Error while creating subject 'ARABIC GRAMMAR': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:29:33] ERROR: Row 9: FAILED
+[2026-08-03 23:29:33] INFO: Processing Row 10: SKILLO MATHS
+[2026-08-03 23:29:33] ERROR: Error while creating subject 'SKILLO MATHS': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:29:33] ERROR: Row 10: FAILED
+[2026-08-03 23:29:33] INFO: Processing Row 11: QURAN
+[2026-08-03 23:29:33] ERROR: Error while creating subject 'QURAN': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:29:33] ERROR: Row 11: FAILED
+[2026-08-03 23:29:33] INFO: Processing Row 12: SEERAH
+[2026-08-03 23:29:33] ERROR: Error while creating subject 'SEERAH': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:29:33] ERROR: Row 12: FAILED
+[2026-08-03 23:29:33] INFO: Processing Row 13: ISLAMIC STUDIES
+[2026-08-03 23:29:33] ERROR: Error while creating subject 'ISLAMIC STUDIES': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:29:33] ERROR: Row 13: FAILED
+[2026-08-03 23:29:33] INFO: Processing Row 14: URDU
+[2026-08-03 23:29:33] ERROR: Error while creating subject 'URDU': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:29:33] ERROR: Row 14: FAILED
+[2026-08-03 23:29:33] INFO: Processing Row 15: AGILITY GAMES
+[2026-08-03 23:29:33] ERROR: Error while creating subject 'AGILITY GAMES': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:29:33] ERROR: Row 15: FAILED
+[2026-08-03 23:29:33] INFO: Processing Row 16: COURSE ENGLISH
+[2026-08-03 23:29:33] ERROR: Error while creating subject 'COURSE ENGLISH': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:29:33] ERROR: Row 16: FAILED
+[2026-08-03 23:29:33] INFO: Processing Row 17: COURSE STATE LANGUAGE
+[2026-08-03 23:29:33] ERROR: Error while creating subject 'COURSE STATE LANGUAGE': page.isVisible: Target page, context or browser has been closed
+[2026-08-03 23:29:33] ERROR: Row 17: FAILED
+[2026-08-03 23:29:33] INFO: Report generated successfully at: D:\play\reports\SubjectCreation_Report.xlsx
+[2026-08-03 23:30:52] INFO: Starting Automation...
+[2026-08-03 23:30:53] INFO: Excel Loaded Successfully
+[2026-08-03 23:30:53] INFO: Total Records : 16
+[2026-08-03 23:30:53] INFO: Navigating to Login Page...
+[2026-08-03 23:30:55] INFO: Entering credentials...
+[2026-08-03 23:30:55] INFO: Clicking Login button...
+[2026-08-03 23:30:59] INFO: Login successful.
+[2026-08-03 23:30:59] INFO: Navigating to Subjects Section...
+[2026-08-03 23:30:59] INFO: Already on Subjects page.
+[2026-08-03 23:30:59] INFO: Processing Row 2: ENGLISH READING LOBES
+[2026-08-03 23:31:02] INFO: Row 2: SUCCESS
+[2026-08-03 23:31:02] INFO: Processing Row 3: ENGLISH SPEAKING
+[2026-08-03 23:31:06] INFO: Row 3: SUCCESS
+[2026-08-03 23:31:06] INFO: Processing Row 4: ENGLISH WRITING
+[2026-08-03 23:31:09] INFO: Row 4: SUCCESS
+[2026-08-03 23:31:09] INFO: Processing Row 5: STRUCTURAL CONVERSATION
+[2026-08-03 23:31:13] INFO: Row 5: SUCCESS
+[2026-08-03 23:31:13] INFO: Processing Row 6: READING LIBRARY
+[2026-08-03 23:31:16] INFO: Row 6: SUCCESS
+[2026-08-03 23:31:16] INFO: Processing Row 7: ARABIC READING
+[2026-08-03 23:31:19] INFO: Row 7: SUCCESS
+[2026-08-03 23:31:19] INFO: Processing Row 8: ARABIC WRITING
+[2026-08-03 23:31:22] INFO: Row 8: SUCCESS
+[2026-08-03 23:31:22] INFO: Processing Row 9: ARABIC GRAMMAR
+[2026-08-03 23:31:26] INFO: Row 9: SUCCESS
+[2026-08-03 23:31:26] INFO: Processing Row 10: SKILLO MATHS
+[2026-08-03 23:31:29] INFO: Row 10: SUCCESS
+[2026-08-03 23:31:29] INFO: Processing Row 11: QURAN
+[2026-08-03 23:31:33] INFO: Row 11: SUCCESS
+[2026-08-03 23:31:33] INFO: Processing Row 12: SEERAH
+[2026-08-03 23:31:39] INFO: Row 12: SUCCESS
+[2026-08-03 23:31:39] INFO: Processing Row 13: ISLAMIC STUDIES
+[2026-08-03 23:31:44] INFO: Row 13: SUCCESS
+[2026-08-03 23:31:44] INFO: Processing Row 14: URDU
+[2026-08-03 23:31:47] INFO: Row 14: SUCCESS
+[2026-08-03 23:31:47] INFO: Processing Row 15: AGILITY GAMES
+[2026-08-03 23:31:52] INFO: Row 15: SUCCESS
+[2026-08-03 23:31:52] INFO: Processing Row 16: COURSE ENGLISH
+[2026-08-03 23:31:55] INFO: Row 16: SUCCESS
+[2026-08-03 23:31:55] INFO: Processing Row 17: COURSE STATE LANGUAGE
+[2026-08-03 23:31:58] INFO: Row 17: SUCCESS
+[2026-08-03 23:31:59] INFO: Report generated successfully at: D:\play\reports\SubjectCreation_Report.xlsx
+[2026-08-04 14:56:00] INFO: Starting Automation...
+[2026-08-04 14:56:02] INFO: Excel Loaded Successfully
+[2026-08-04 14:56:02] INFO: Total Records : 16
+[2026-08-04 14:56:02] INFO: Navigating to Login Page...
+[2026-08-04 14:56:02] INFO: Entering credentials...
+[2026-08-04 14:56:02] INFO: Clicking Login button...
+[2026-08-04 14:56:04] INFO: Login successful.
+[2026-08-04 14:56:04] INFO: Navigating to Subjects Section...
+[2026-08-04 14:56:04] INFO: Already on Subjects page.
+[2026-08-04 14:56:04] INFO: Processing Row 2: English Reading Lobes
+[2026-08-04 14:56:05] INFO: Row 2: SUCCESS
+[2026-08-04 14:56:05] INFO: Processing Row 3: English Speaking
+[2026-08-04 14:56:06] INFO: Row 3: SUCCESS
+[2026-08-04 14:56:06] INFO: Processing Row 4: English Writing
+[2026-08-04 14:56:07] INFO: Row 4: SUCCESS
+[2026-08-04 14:56:07] INFO: Processing Row 5: Structural Conversation
+[2026-08-04 14:56:08] INFO: Row 5: SUCCESS
+[2026-08-04 14:56:08] INFO: Processing Row 6: Reading Library
+[2026-08-04 14:56:10] INFO: Row 6: SUCCESS
+[2026-08-04 14:56:10] INFO: Processing Row 7: Arabic Reading
+[2026-08-04 14:56:11] INFO: Row 7: SUCCESS
+[2026-08-04 14:56:11] INFO: Processing Row 8: Arabic Writing
+[2026-08-04 14:56:12] INFO: Row 8: SUCCESS
+[2026-08-04 14:56:12] INFO: Processing Row 9: Arabic Grammar
+[2026-08-04 14:56:13] INFO: Row 9: SUCCESS
+[2026-08-04 14:56:13] INFO: Processing Row 10: Skill Maths
+[2026-08-04 14:56:14] INFO: Row 10: SUCCESS
+[2026-08-04 14:56:14] INFO: Processing Row 11: Quran
+[2026-08-04 14:56:15] INFO: Row 11: SUCCESS
+[2026-08-04 14:56:15] INFO: Processing Row 12: Seerah
+[2026-08-04 14:56:16] INFO: Row 12: SUCCESS
+[2026-08-04 14:56:16] INFO: Processing Row 13: Islamic Studies
+[2026-08-04 14:56:17] INFO: Row 13: SUCCESS
+[2026-08-04 14:56:17] INFO: Processing Row 14: Udru
+[2026-08-04 14:56:18] INFO: Row 14: SUCCESS
+[2026-08-04 14:56:18] INFO: Processing Row 15: Agility Games
+[2026-08-04 14:56:19] INFO: Row 15: SUCCESS
+[2026-08-04 14:56:19] INFO: Processing Row 16: Course English
+[2026-08-04 14:56:20] INFO: Row 16: SUCCESS
+[2026-08-04 14:56:20] INFO: Processing Row 17: Course State Language
+[2026-08-04 14:56:21] INFO: Row 17: SUCCESS
+[2026-08-04 14:56:21] INFO: Report generated successfully at: D:\play\reports\SubjectCreation_Report.xlsx
+[2026-08-06 11:04:02] INFO: Starting Automation...
+[2026-08-06 11:04:21] INFO: Starting Automation...
+[2026-08-06 11:04:22] INFO: Excel Loaded Successfully
+[2026-08-06 11:04:22] INFO: Total Records : 29
+[2026-08-06 11:04:22] INFO: Navigating to Login Page...
+[2026-08-06 11:04:22] INFO: Entering credentials...
+[2026-08-06 11:04:22] INFO: Clicking Login button...
+[2026-08-06 11:04:24] INFO: Login successful.
+[2026-08-06 11:04:24] INFO: Navigating to Subjects Section...
+[2026-08-06 11:04:24] INFO: Already on Subjects page.
+[2026-08-06 11:04:24] INFO: Processing Row 2: Way to paradise -G.A
+[2026-08-06 11:04:25] INFO: Row 2: SUCCESS
+[2026-08-06 11:04:25] INFO: Processing Row 3: Way to paradise - Literacy skills
+[2026-08-06 11:04:26] INFO: Row 3: SUCCESS
+[2026-08-06 11:04:26] INFO: Processing Row 4: Way to paradise -GA
+[2026-08-06 11:04:27] INFO: Row 4: SUCCESS
+[2026-08-06 11:04:27] INFO: Processing Row 5: Way to paradise - Literacy skill
+[2026-08-06 11:04:28] INFO: Row 5: SUCCESS
+[2026-08-06 11:04:28] INFO: Processing Row 6: Way to paradise - numerical skill
+[2026-08-06 11:04:29] INFO: Row 6: SUCCESS
+[2026-08-06 11:04:29] INFO: Processing Row 7: parvaz Qaida A
+[2026-08-06 11:04:30] INFO: Row 7: SUCCESS
+[2026-08-06 11:04:30] INFO: Processing Row 8: 99 Name of Allah
+[2026-08-06 11:04:32] INFO: Row 8: SUCCESS
+[2026-08-06 11:04:32] INFO: Processing Row 9: Shabd Gyan
+[2026-08-06 11:04:34] INFO: Row 9: SUCCESS
+[2026-08-06 11:04:34] INFO: Processing Row 10: Tip Top Toe
+[2026-08-06 11:04:35] INFO: Row 10: SUCCESS
+[2026-08-06 11:04:35] INFO: Processing Row 11: WUDHU & Salah
+[2026-08-06 11:04:37] INFO: Row 11: SUCCESS
+[2026-08-06 11:04:37] INFO: Processing Row 12: parvaz Qaida B
+[2026-08-06 11:04:39] INFO: Row 12: SUCCESS
+[2026-08-06 11:04:39] INFO: Processing Row 13: Swar Gyaan
+[2026-08-06 11:04:40] INFO: Row 13: SUCCESS
+[2026-08-06 11:04:40] INFO: Processing Row 14: Englica
+[2026-08-06 11:04:55] ERROR: Error while creating subject 'Englica': page.selectOption: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('#id_grade, select[name="grade"], #grade-select')[22m
+[2m    - locator resolved to <select required="" name="grade" id="id_grade" data-value="null" class="chained-fk" data-auto_choose="true" data-empty_label="--------" data-chainfield="education_board" data-url="/chaining/filter/school_module/Grade/education_board/school_module/Subject/grade">…</select>[22m
+[2m  - attempting select option action[22m
+[2m    2 × waiting for element to be visible and enabled[22m
+[2m      - did not find some options[22m
+[2m    - retrying select option action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible and enabled[22m
+[2m      - did not find some options[22m
+[2m    - retrying select option action[22m
+[2m      - waiting 100ms[22m
+[2m    29 × waiting for element to be visible and enabled[22m
+[2m       - did not find some options[22m
+[2m     - retrying select option action[22m
+[2m       - waiting 500ms[22m
+
+[2026-08-06 11:04:55] ERROR: Row 14: FAILED
+[2026-08-06 11:04:55] INFO: Processing Row 15: Wisdo maths part 1
+[2026-08-06 11:05:10] ERROR: Error while creating subject 'Wisdo maths part 1': page.selectOption: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('#id_grade, select[name="grade"], #grade-select')[22m
+[2m    - locator resolved to <select required="" name="grade" id="id_grade" data-value="null" class="chained-fk" data-auto_choose="true" data-empty_label="--------" data-chainfield="education_board" data-url="/chaining/filter/school_module/Grade/education_board/school_module/Subject/grade">…</select>[22m
+[2m  - attempting select option action[22m
+[2m    2 × waiting for element to be visible and enabled[22m
+[2m      - did not find some options[22m
+[2m    - retrying select option action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible and enabled[22m
+[2m      - did not find some options[22m
+[2m    - retrying select option action[22m
+[2m      - waiting 100ms[22m
+[2m    29 × waiting for element to be visible and enabled[22m
+[2m       - did not find some options[22m
+[2m     - retrying select option action[22m
+[2m       - waiting 500ms[22m
+
+[2026-08-06 11:05:10] ERROR: Row 15: FAILED
+[2026-08-06 11:05:10] INFO: Processing Row 16: Wisdo maths part 2
+[2026-08-06 11:05:25] ERROR: Error while creating subject 'Wisdo maths part 2': page.selectOption: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('#id_grade, select[name="grade"], #grade-select')[22m
+[2m    - locator resolved to <select required="" name="grade" id="id_grade" data-value="null" class="chained-fk" data-auto_choose="true" data-empty_label="--------" data-chainfield="education_board" data-url="/chaining/filter/school_module/Grade/education_board/school_module/Subject/grade">…</select>[22m
+[2m  - attempting select option action[22m
+[2m    2 × waiting for element to be visible and enabled[22m
+[2m      - did not find some options[22m
+[2m    - retrying select option action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible and enabled[22m
+[2m      - did not find some options[22m
+[2m    - retrying select option action[22m
+[2m      - waiting 100ms[22m
+[2m    29 × waiting for element to be visible and enabled[22m
+[2m       - did not find some options[22m
+[2m     - retrying select option action[22m
+[2m       - waiting 500ms[22m
+
+[2026-08-06 11:05:25] ERROR: Row 16: FAILED
+[2026-08-06 11:05:25] INFO: Processing Row 17: Universal science
+[2026-08-06 11:05:39] ERROR: Error while creating subject 'Universal science': page.selectOption: Test ended.
+Call log:
+[2m  - waiting for locator('#id_grade, select[name="grade"], #grade-select')[22m
+[2m    - locator resolved to <select required="" name="grade" id="id_grade" data-value="null" class="chained-fk" data-auto_choose="true" data-empty_label="--------" data-chainfield="education_board" data-url="/chaining/filter/school_module/Grade/education_board/school_module/Subject/grade">…</select>[22m
+[2m  - attempting select option action[22m
+[2m    2 × waiting for element to be visible and enabled[22m
+[2m      - did not find some options[22m
+[2m    - retrying select option action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible and enabled[22m
+[2m      - did not find some options[22m
+[2m    - retrying select option action[22m
+[2m      - waiting 100ms[22m
+[2m    26 × waiting for element to be visible and enabled[22m
+[2m       - did not find some options[22m
+[2m     - retrying select option action[22m
+[2m       - waiting 500ms[22m
+
+[2026-08-06 11:05:39] ERROR: Row 17: FAILED
+[2026-08-06 11:05:39] INFO: Processing Row 18: Urdu Reader
+[2026-08-06 11:05:39] ERROR: Error while creating subject 'Urdu Reader': page.isVisible: Target page, context or browser has been closed
+[2026-08-06 11:05:39] ERROR: Row 18: FAILED
+[2026-08-06 11:05:39] INFO: Processing Row 19: Gyan sarita
+[2026-08-06 11:05:39] ERROR: Error while creating subject 'Gyan sarita': page.isVisible: Target page, context or browser has been closed
+[2026-08-06 11:05:39] ERROR: Row 19: FAILED
+[2026-08-06 11:05:39] INFO: Processing Row 20: Englica
+[2026-08-06 11:05:39] ERROR: Error while creating subject 'Englica': page.isVisible: Target page, context or browser has been closed
+[2026-08-06 11:05:39] ERROR: Row 20: FAILED
+[2026-08-06 11:05:39] INFO: Processing Row 21: Maths Ace Elite
+[2026-08-06 11:05:39] ERROR: Error while creating subject 'Maths Ace Elite': page.isVisible: Target page, context or browser has been closed
+[2026-08-06 11:05:39] ERROR: Row 21: FAILED
+[2026-08-06 11:05:39] INFO: Processing Row 22: Universal science
+[2026-08-06 11:05:39] ERROR: Error while creating subject 'Universal science': page.isVisible: Target page, context or browser has been closed
+[2026-08-06 11:05:39] ERROR: Row 22: FAILED
+[2026-08-06 11:05:39] INFO: Processing Row 23: Urdu Reader
+[2026-08-06 11:05:39] ERROR: Error while creating subject 'Urdu Reader': page.isVisible: Target page, context or browser has been closed
+[2026-08-06 11:05:39] ERROR: Row 23: FAILED
+[2026-08-06 11:05:39] INFO: Processing Row 24: Gyan sarita
+[2026-08-06 11:05:39] ERROR: Error while creating subject 'Gyan sarita': page.isVisible: Target page, context or browser has been closed
+[2026-08-06 11:05:39] ERROR: Row 24: FAILED
+[2026-08-06 11:05:39] INFO: Processing Row 25: Englica
+[2026-08-06 11:05:39] ERROR: Error while creating subject 'Englica': page.isVisible: Target page, context or browser has been closed
+[2026-08-06 11:05:39] ERROR: Row 25: FAILED
+[2026-08-06 11:05:39] INFO: Processing Row 26: Maths Ace Elite
+[2026-08-06 11:05:39] ERROR: Error while creating subject 'Maths Ace Elite': page.isVisible: Target page, context or browser has been closed
+[2026-08-06 11:05:39] ERROR: Row 26: FAILED
+[2026-08-06 11:05:39] INFO: Processing Row 27: Universal science
+[2026-08-06 11:05:39] ERROR: Error while creating subject 'Universal science': page.isVisible: Target page, context or browser has been closed
+[2026-08-06 11:05:39] ERROR: Row 27: FAILED
+[2026-08-06 11:05:39] INFO: Processing Row 28: Urdu Reader
+[2026-08-06 11:05:39] ERROR: Error while creating subject 'Urdu Reader': page.isVisible: Target page, context or browser has been closed
+[2026-08-06 11:05:39] ERROR: Row 28: FAILED
+[2026-08-06 11:05:39] INFO: Processing Row 29: Gyaan Sarita
+[2026-08-06 11:05:39] ERROR: Error while creating subject 'Gyaan Sarita': page.isVisible: Target page, context or browser has been closed
+[2026-08-06 11:05:39] ERROR: Row 29: FAILED
+[2026-08-06 11:05:39] INFO: Processing Row 30: Click Code Connect
+[2026-08-06 11:05:39] ERROR: Error while creating subject 'Click Code Connect': page.isVisible: Target page, context or browser has been closed
+[2026-08-06 11:05:39] ERROR: Row 30: FAILED
+[2026-08-06 11:05:39] INFO: Report generated successfully at: D:\play\reports\SubjectCreation_Report.xlsx
+[2026-08-06 11:14:03] INFO: Starting Automation...
+[2026-08-06 11:14:04] INFO: Excel Loaded Successfully
+[2026-08-06 11:14:04] INFO: Total Records : 29
+[2026-08-06 11:14:04] INFO: Navigating to Login Page...
+[2026-08-06 11:14:04] INFO: Entering credentials...
+[2026-08-06 11:14:04] INFO: Clicking Login button...
+[2026-08-06 11:14:06] INFO: Login successful.
+[2026-08-06 11:14:06] INFO: Navigating to Subjects Section...
+[2026-08-06 11:14:06] INFO: Already on Subjects page.
+[2026-08-06 11:14:06] INFO: Processing Row 2: Way to paradise -G.A
+[2026-08-06 11:14:07] INFO: Row 2: SUCCESS
+[2026-08-06 11:14:07] INFO: Processing Row 3: Way to paradise - Literacy skills
+[2026-08-06 11:14:09] INFO: Row 3: SUCCESS
+[2026-08-06 11:14:09] INFO: Processing Row 4: Way to paradise -GA
+[2026-08-06 11:14:10] INFO: Row 4: SUCCESS
+[2026-08-06 11:14:10] INFO: Processing Row 5: Way to paradise - Literacy skill
+[2026-08-06 11:14:11] INFO: Row 5: SUCCESS
+[2026-08-06 11:14:11] INFO: Processing Row 6: Way to paradise - numerical skill
+[2026-08-06 11:14:12] INFO: Row 6: SUCCESS
+[2026-08-06 11:14:12] INFO: Processing Row 7: parvaz Qaida A
+[2026-08-06 11:14:14] INFO: Row 7: SUCCESS
+[2026-08-06 11:14:14] INFO: Processing Row 8: 99 Name of Allah
+[2026-08-06 11:14:15] INFO: Row 8: SUCCESS
+[2026-08-06 11:14:15] INFO: Processing Row 9: Shabd Gyan
+[2026-08-06 11:14:16] INFO: Row 9: SUCCESS
+[2026-08-06 11:14:16] INFO: Processing Row 10: Tip Top Toe
+[2026-08-06 11:14:17] INFO: Row 10: SUCCESS
+[2026-08-06 11:14:17] INFO: Processing Row 11: WUDHU & Salah
+[2026-08-06 11:14:18] INFO: Row 11: SUCCESS
+[2026-08-06 11:14:18] INFO: Processing Row 12: parvaz Qaida B
+[2026-08-06 11:14:20] INFO: Row 12: SUCCESS
+[2026-08-06 11:14:20] INFO: Processing Row 13: Swar Gyaan
+[2026-08-06 11:14:21] INFO: Row 13: SUCCESS
+[2026-08-06 11:14:21] INFO: Processing Row 14: Englica
+[2026-08-06 11:14:22] INFO: Row 14: SUCCESS
+[2026-08-06 11:14:22] INFO: Processing Row 15: Wisdo maths part 1
+[2026-08-06 11:14:23] INFO: Row 15: SUCCESS
+[2026-08-06 11:14:23] INFO: Processing Row 16: Wisdo maths part 2
+[2026-08-06 11:14:24] INFO: Row 16: SUCCESS
+[2026-08-06 11:14:24] INFO: Processing Row 17: Universal science
+[2026-08-06 11:14:25] INFO: Row 17: SUCCESS
+[2026-08-06 11:14:25] INFO: Processing Row 18: Urdu Reader
+[2026-08-06 11:14:27] INFO: Row 18: SUCCESS
+[2026-08-06 11:14:27] INFO: Processing Row 19: Gyan sarita
+[2026-08-06 11:14:28] INFO: Row 19: SUCCESS
+[2026-08-06 11:14:28] INFO: Processing Row 20: Englica
+[2026-08-06 11:14:29] INFO: Row 20: SUCCESS
+[2026-08-06 11:14:29] INFO: Processing Row 21: Maths Ace Elite
+[2026-08-06 11:14:30] INFO: Row 21: SUCCESS
+[2026-08-06 11:14:30] INFO: Processing Row 22: Universal science
+[2026-08-06 11:14:31] INFO: Row 22: SUCCESS
+[2026-08-06 11:14:31] INFO: Processing Row 23: Urdu Reader
+[2026-08-06 11:14:32] INFO: Row 23: SUCCESS
+[2026-08-06 11:14:32] INFO: Processing Row 24: Gyan sarita
+[2026-08-06 11:14:33] INFO: Row 24: SUCCESS
+[2026-08-06 11:14:33] INFO: Processing Row 25: Englica
+[2026-08-06 11:14:34] INFO: Row 25: SUCCESS
+[2026-08-06 11:14:34] INFO: Processing Row 26: Maths Ace Elite
+[2026-08-06 11:14:35] INFO: Row 26: SUCCESS
+[2026-08-06 11:14:35] INFO: Processing Row 27: Universal science
+[2026-08-06 11:14:36] INFO: Row 27: SUCCESS
+[2026-08-06 11:14:36] INFO: Processing Row 28: Urdu Reader
+[2026-08-06 11:14:37] INFO: Row 28: SUCCESS
+[2026-08-06 11:14:37] INFO: Processing Row 29: Gyaan Sarita
+[2026-08-06 11:14:38] INFO: Row 29: SUCCESS
+[2026-08-06 11:14:38] INFO: Processing Row 30: Click Code Connect
+[2026-08-06 11:14:39] INFO: Row 30: SUCCESS
+[2026-08-06 11:14:39] INFO: Report generated successfully at: D:\play\reports\SubjectCreation_Report.xlsx
+[2026-08-07 12:11:09] INFO: Starting Automation...
+[2026-08-07 12:11:11] INFO: Excel Loaded Successfully
+[2026-08-07 12:11:11] INFO: Total Records : 1
+[2026-08-07 12:11:11] INFO: Navigating to Login Page...
+[2026-08-07 12:11:11] INFO: Entering credentials...
+[2026-08-07 12:11:11] INFO: Clicking Login button...
+[2026-08-07 12:11:13] INFO: Login successful.
+[2026-08-07 12:11:13] INFO: Navigating to Subjects Section...
+[2026-08-07 12:11:13] INFO: Already on Subjects page.
+[2026-08-07 12:11:13] INFO: Processing Row 2: Way to paradise -G.A
+[2026-08-07 12:11:19] ERROR: Row 2: FAILED
+[2026-08-07 12:11:19] INFO: Report generated successfully at: D:\play\reports\SubjectCreation_Report.xlsx
+[2026-08-10 12:43:53] INFO: Starting Automation...
+[2026-08-10 12:43:55] INFO: Excel Loaded Successfully
+[2026-08-10 12:43:55] INFO: Total Records : 102
+[2026-08-10 12:43:55] INFO: Navigating to Login Page...
+[2026-08-10 12:43:55] INFO: Entering credentials...
+[2026-08-10 12:43:55] INFO: Clicking Login button...
+[2026-08-10 12:43:56] INFO: Login successful.
+[2026-08-10 12:43:56] INFO: Navigating to Subjects Section...
+[2026-08-10 12:43:56] INFO: Already on Subjects page.
+[2026-08-10 12:43:56] INFO: Processing Row 2: General Awareness
+[2026-08-10 12:43:58] INFO: Row 2: SUCCESS
+[2026-08-10 12:43:58] INFO: Processing Row 3: Literacy Skills
+[2026-08-10 12:43:59] INFO: Row 3: SUCCESS
+[2026-08-10 12:43:59] INFO: Processing Row 4: Numerical Skills
+[2026-08-10 12:44:00] INFO: Row 4: SUCCESS
+[2026-08-10 12:44:00] INFO: Processing Row 5: EVS
+[2026-08-10 12:44:01] INFO: Row 5: SUCCESS
+[2026-08-10 12:44:01] INFO: Processing Row 6: General Awareness
+[2026-08-10 12:44:02] INFO: Row 6: SUCCESS
+[2026-08-10 12:44:02] INFO: Processing Row 7: Literacy Skills
+[2026-08-10 12:44:03] INFO: Row 7: SUCCESS
+[2026-08-10 12:44:03] INFO: Processing Row 8: Numerical Skills
+[2026-08-10 12:44:04] INFO: Row 8: SUCCESS
+[2026-08-10 12:44:04] INFO: Processing Row 9: EVS
+[2026-08-10 12:44:05] INFO: Row 9: SUCCESS
+[2026-08-10 12:44:05] INFO: Processing Row 10: Mathematics
+[2026-08-10 12:44:06] INFO: Row 10: SUCCESS
+[2026-08-10 12:44:06] INFO: Processing Row 11: Science
+[2026-08-10 12:44:07] INFO: Row 11: SUCCESS
+[2026-08-10 12:44:07] INFO: Processing Row 12: English
+[2026-08-10 12:44:09] INFO: Row 12: SUCCESS
+[2026-08-10 12:44:09] INFO: Processing Row 13: Social Studies
+[2026-08-10 12:44:10] INFO: Row 13: SUCCESS
+[2026-08-10 12:44:10] INFO: Processing Row 14: Hindi
+[2026-08-10 12:44:11] INFO: Row 14: SUCCESS
+[2026-08-10 12:44:11] INFO: Processing Row 15: Urdu
+[2026-08-10 12:44:12] INFO: Row 15: SUCCESS
+[2026-08-10 12:44:12] INFO: Processing Row 16: Science
+[2026-08-10 12:44:13] INFO: Row 16: SUCCESS
+[2026-08-10 12:44:13] INFO: Processing Row 17: English
+[2026-08-10 12:44:14] INFO: Row 17: SUCCESS
+[2026-08-10 12:44:14] INFO: Processing Row 18: Social Studies
+[2026-08-10 12:44:15] INFO: Row 18: SUCCESS
+[2026-08-10 12:44:15] INFO: Processing Row 19: Hindi
+[2026-08-10 12:44:16] INFO: Row 19: SUCCESS
+[2026-08-10 12:44:16] INFO: Processing Row 20: Urdu
+[2026-08-10 12:44:17] INFO: Row 20: SUCCESS
+[2026-08-10 12:44:17] INFO: Processing Row 21: Islamic Studies
+[2026-08-10 12:44:18] INFO: Row 21: SUCCESS
+[2026-08-10 12:44:18] INFO: Processing Row 22: Mathematics
+[2026-08-10 12:44:19] INFO: Row 22: SUCCESS
+[2026-08-10 12:44:19] INFO: Processing Row 23: Science
+[2026-08-10 12:44:20] INFO: Row 23: SUCCESS
+[2026-08-10 12:44:20] INFO: Processing Row 24: English
+[2026-08-10 12:44:20] INFO: Row 24: SUCCESS
+[2026-08-10 12:44:20] INFO: Processing Row 25: Social Studies
+[2026-08-10 12:44:21] INFO: Row 25: SUCCESS
+[2026-08-10 12:44:21] INFO: Processing Row 26: Hindi
+[2026-08-10 12:44:22] INFO: Row 26: SUCCESS
+[2026-08-10 12:44:22] INFO: Processing Row 27: Urdu
+[2026-08-10 12:44:23] INFO: Row 27: SUCCESS
+[2026-08-10 12:44:23] INFO: Processing Row 28: Islamic Studies
+[2026-08-10 12:44:24] INFO: Row 28: SUCCESS
+[2026-08-10 12:44:24] INFO: Processing Row 29: Mathematics
+[2026-08-10 12:44:25] INFO: Row 29: SUCCESS
+[2026-08-10 12:44:25] INFO: Processing Row 30: General Knowledge
+[2026-08-10 12:44:26] INFO: Row 30: SUCCESS
+[2026-08-10 12:44:26] INFO: Processing Row 31: Computer Science
+[2026-08-10 12:44:27] INFO: Row 31: SUCCESS
+[2026-08-10 12:44:27] INFO: Processing Row 32: Science
+[2026-08-10 12:44:28] INFO: Row 32: SUCCESS
+[2026-08-10 12:44:28] INFO: Processing Row 33: English
+[2026-08-10 12:44:29] INFO: Row 33: SUCCESS
+[2026-08-10 12:44:29] INFO: Processing Row 34: Social Studies
+[2026-08-10 12:44:30] INFO: Row 34: SUCCESS
+[2026-08-10 12:44:30] INFO: Processing Row 35: Hindi
+[2026-08-10 12:44:31] INFO: Row 35: SUCCESS
+[2026-08-10 12:44:31] INFO: Processing Row 36: Urdu
+[2026-08-10 12:44:32] INFO: Row 36: SUCCESS
+[2026-08-10 12:44:32] INFO: Processing Row 37: Islamic Studies
+[2026-08-10 12:44:33] INFO: Row 37: SUCCESS
+[2026-08-10 12:44:33] INFO: Processing Row 38: Mathematics
+[2026-08-10 12:44:34] INFO: Row 38: SUCCESS
+[2026-08-10 12:44:34] INFO: Processing Row 39: General Knowledge
+[2026-08-10 12:44:35] INFO: Row 39: SUCCESS
+[2026-08-10 12:44:35] INFO: Processing Row 40: Computer Science
+[2026-08-10 12:44:36] INFO: Row 40: SUCCESS
+[2026-08-10 12:44:36] INFO: Processing Row 41: Science
+[2026-08-10 12:44:37] INFO: Row 41: SUCCESS
+[2026-08-10 12:44:37] INFO: Processing Row 42: English
+[2026-08-10 12:44:38] INFO: Row 42: SUCCESS
+[2026-08-10 12:44:38] INFO: Processing Row 43: Social Studies
+[2026-08-10 12:44:39] INFO: Row 43: SUCCESS
+[2026-08-10 12:44:39] INFO: Processing Row 44: Hindi
+[2026-08-10 12:44:40] INFO: Row 44: SUCCESS
+[2026-08-10 12:44:40] INFO: Processing Row 45: Urdu
+[2026-08-10 12:44:41] INFO: Row 45: SUCCESS
+[2026-08-10 12:44:41] INFO: Processing Row 46: Islamic Studies
+[2026-08-10 12:44:42] INFO: Row 46: SUCCESS
+[2026-08-10 12:44:42] INFO: Processing Row 47: Mathematics
+[2026-08-10 12:44:43] INFO: Row 47: SUCCESS
+[2026-08-10 12:44:43] INFO: Processing Row 48: General Knowledge
+[2026-08-10 12:44:44] INFO: Row 48: SUCCESS
+[2026-08-10 12:44:44] INFO: Processing Row 49: Computer Science
+[2026-08-10 12:44:45] INFO: Row 49: SUCCESS
+[2026-08-10 12:44:45] INFO: Processing Row 50: Science
+[2026-08-10 12:44:46] INFO: Row 50: SUCCESS
+[2026-08-10 12:44:46] INFO: Processing Row 51: English
+[2026-08-10 12:44:47] INFO: Row 51: SUCCESS
+[2026-08-10 12:44:47] INFO: Processing Row 52: Social Studies
+[2026-08-10 12:44:48] INFO: Row 52: SUCCESS
+[2026-08-10 12:44:48] INFO: Processing Row 53: Hindi
+[2026-08-10 12:44:49] INFO: Row 53: SUCCESS
+[2026-08-10 12:44:49] INFO: Processing Row 54: Urdu
+[2026-08-10 12:44:50] INFO: Row 54: SUCCESS
+[2026-08-10 12:44:50] INFO: Processing Row 55: Islamic Studies
+[2026-08-10 12:44:51] INFO: Row 55: SUCCESS
+[2026-08-10 12:44:51] INFO: Processing Row 56: Mathematics
+[2026-08-10 12:44:52] INFO: Row 56: SUCCESS
+[2026-08-10 12:44:52] INFO: Processing Row 57: General Knowledge
+[2026-08-10 12:44:53] INFO: Row 57: SUCCESS
+[2026-08-10 12:44:53] INFO: Processing Row 58: Computer Science
+[2026-08-10 12:44:54] INFO: Row 58: SUCCESS
+[2026-08-10 12:44:54] INFO: Processing Row 59: Science
+[2026-08-10 12:44:55] INFO: Row 59: SUCCESS
+[2026-08-10 12:44:55] INFO: Processing Row 60: English
+[2026-08-10 12:44:56] INFO: Row 60: SUCCESS
+[2026-08-10 12:44:56] INFO: Processing Row 61: Social Studies
+[2026-08-10 12:44:57] INFO: Row 61: SUCCESS
+[2026-08-10 12:44:57] INFO: Processing Row 62: Hindi
+[2026-08-10 12:44:58] INFO: Row 62: SUCCESS
+[2026-08-10 12:44:58] INFO: Processing Row 63: Urdu
+[2026-08-10 12:44:59] INFO: Row 63: SUCCESS
+[2026-08-10 12:44:59] INFO: Processing Row 64: Islamic Studies
+[2026-08-10 12:45:00] INFO: Row 64: SUCCESS
+[2026-08-10 12:45:00] INFO: Processing Row 65: Mathematics
+[2026-08-10 12:45:01] INFO: Row 65: SUCCESS
+[2026-08-10 12:45:01] INFO: Processing Row 66: General Knowledge
+[2026-08-10 12:45:03] INFO: Row 66: SUCCESS
+[2026-08-10 12:45:03] INFO: Processing Row 67: Computer Science
+[2026-08-10 12:45:04] INFO: Row 67: SUCCESS
+[2026-08-10 12:45:04] INFO: Processing Row 68: Science
+[2026-08-10 12:45:06] INFO: Row 68: SUCCESS
+[2026-08-10 12:45:06] INFO: Processing Row 69: English
+[2026-08-10 12:45:07] INFO: Row 69: SUCCESS
+[2026-08-10 12:45:07] INFO: Processing Row 70: Social Studies
+[2026-08-10 12:45:08] INFO: Row 70: SUCCESS
+[2026-08-10 12:45:08] INFO: Processing Row 71: Hindi
+[2026-08-10 12:45:09] INFO: Row 71: SUCCESS
+[2026-08-10 12:45:09] INFO: Processing Row 72: Urdu
+[2026-08-10 12:45:10] INFO: Row 72: SUCCESS
+[2026-08-10 12:45:10] INFO: Processing Row 73: Islamic Studies
+[2026-08-10 12:45:11] INFO: Row 73: SUCCESS
+[2026-08-10 12:45:11] INFO: Processing Row 74: Mathematics
+[2026-08-10 12:45:12] INFO: Row 74: SUCCESS
+[2026-08-10 12:45:12] INFO: Processing Row 75: General Knowledge
+[2026-08-10 12:45:13] INFO: Row 75: SUCCESS
+[2026-08-10 12:45:13] INFO: Processing Row 76: Computer Science
+[2026-08-10 12:45:14] INFO: Row 76: SUCCESS
+[2026-08-10 12:45:14] INFO: Processing Row 77: Science
+[2026-08-10 12:45:15] INFO: Row 77: SUCCESS
+[2026-08-10 12:45:15] INFO: Processing Row 78: English
+[2026-08-10 12:45:16] INFO: Row 78: SUCCESS
+[2026-08-10 12:45:16] INFO: Processing Row 79: Social Studies
+[2026-08-10 12:45:17] INFO: Row 79: SUCCESS
+[2026-08-10 12:45:17] INFO: Processing Row 80: Hindi
+[2026-08-10 12:45:18] INFO: Row 80: SUCCESS
+[2026-08-10 12:45:18] INFO: Processing Row 81: Urdu
+[2026-08-10 12:45:19] INFO: Row 81: SUCCESS
+[2026-08-10 12:45:19] INFO: Processing Row 82: Islamic Studies
+[2026-08-10 12:45:20] INFO: Row 82: SUCCESS
+[2026-08-10 12:45:20] INFO: Processing Row 83: Mathematics
+[2026-08-10 12:45:21] INFO: Row 83: SUCCESS
+[2026-08-10 12:45:21] INFO: Processing Row 84: General Knowledge
+[2026-08-10 12:45:22] INFO: Row 84: SUCCESS
+[2026-08-10 12:45:22] INFO: Processing Row 85: Computer Science
+[2026-08-10 12:45:23] INFO: Row 85: SUCCESS
+[2026-08-10 12:45:23] INFO: Processing Row 86: Science
+[2026-08-10 12:45:24] INFO: Row 86: SUCCESS
+[2026-08-10 12:45:24] INFO: Processing Row 87: English
+[2026-08-10 12:45:25] INFO: Row 87: SUCCESS
+[2026-08-10 12:45:25] INFO: Processing Row 88: Social Studies
+[2026-08-10 12:45:26] INFO: Row 88: SUCCESS
+[2026-08-10 12:45:26] INFO: Processing Row 89: Hindi
+[2026-08-10 12:45:27] INFO: Row 89: SUCCESS
+[2026-08-10 12:45:27] INFO: Processing Row 90: Urdu
+[2026-08-10 12:45:28] INFO: Row 90: SUCCESS
+[2026-08-10 12:45:28] INFO: Processing Row 91: Islamic Studies
+[2026-08-10 12:45:29] INFO: Row 91: SUCCESS
+[2026-08-10 12:45:29] INFO: Processing Row 92: Mathematics
+[2026-08-10 12:45:30] INFO: Row 92: SUCCESS
+[2026-08-10 12:45:30] INFO: Processing Row 93: General Knowledge
+[2026-08-10 12:45:31] INFO: Row 93: SUCCESS
+[2026-08-10 12:45:31] INFO: Processing Row 94: Computer Science
+[2026-08-10 12:45:32] INFO: Row 94: SUCCESS
+[2026-08-10 12:45:32] INFO: Processing Row 95: Science
+[2026-08-10 12:45:33] INFO: Row 95: SUCCESS
+[2026-08-10 12:45:33] INFO: Processing Row 96: English
+[2026-08-10 12:45:35] INFO: Row 96: SUCCESS
+[2026-08-10 12:45:35] INFO: Processing Row 97: Social Studies
+[2026-08-10 12:45:36] INFO: Row 97: SUCCESS
+[2026-08-10 12:45:36] INFO: Processing Row 98: Hindi
+[2026-08-10 12:45:37] INFO: Row 98: SUCCESS
+[2026-08-10 12:45:37] INFO: Processing Row 99: Urdu
+[2026-08-10 12:45:38] INFO: Row 99: SUCCESS
+[2026-08-10 12:45:38] INFO: Processing Row 100: Islamic Studies
+[2026-08-10 12:45:38] INFO: Row 100: SUCCESS
+[2026-08-10 12:45:38] INFO: Processing Row 101: Mathematics
+[2026-08-10 12:45:39] INFO: Row 101: SUCCESS
+[2026-08-10 12:45:39] INFO: Processing Row 102: General Knowledge
+[2026-08-10 12:45:40] INFO: Row 102: SUCCESS
+[2026-08-10 12:45:40] INFO: Processing Row 103: Computer Science
+[2026-08-10 12:45:41] INFO: Row 103: SUCCESS
+[2026-08-10 12:45:41] INFO: Report generated successfully at: D:\play\reports\SubjectCreation_Report.xlsx
+[2026-08-11 14:05:16] INFO: Starting Automation...
+[2026-08-11 14:05:17] INFO: Excel Loaded Successfully
+[2026-08-11 14:05:17] INFO: Total Records : 47
+[2026-08-11 14:05:17] INFO: Navigating to Login Page...
+[2026-08-11 14:05:18] INFO: Entering credentials...
+[2026-08-11 14:05:18] INFO: Clicking Login button...
+[2026-08-11 14:05:19] INFO: Login successful.
+[2026-08-11 14:05:19] INFO: Navigating to Subjects Section...
+[2026-08-11 14:05:19] INFO: Already on Subjects page.
+[2026-08-11 14:05:19] INFO: Processing Row 2: English Oral
+[2026-08-11 14:05:20] INFO: Row 2: SUCCESS
+[2026-08-11 14:05:20] INFO: Processing Row 3: English Written
+[2026-08-11 14:05:21] INFO: Row 3: SUCCESS
+[2026-08-11 14:05:21] INFO: Processing Row 4: Rhymes
+[2026-08-11 14:05:22] INFO: Row 4: SUCCESS
+[2026-08-11 14:05:22] INFO: Processing Row 5: Mathematics
+[2026-08-11 14:05:23] INFO: Row 5: SUCCESS
+[2026-08-11 14:05:23] INFO: Processing Row 6: General Awareness
+[2026-08-11 14:05:24] INFO: Row 6: SUCCESS
+[2026-08-11 14:05:24] INFO: Processing Row 7: Quran
+[2026-08-11 14:05:25] INFO: Row 7: SUCCESS
+[2026-08-11 14:05:25] INFO: Processing Row 8: Islamic Studies
+[2026-08-11 14:05:26] INFO: Row 8: SUCCESS
+[2026-08-11 14:05:26] INFO: Processing Row 9: Arabic
+[2026-08-11 14:05:27] INFO: Row 9: SUCCESS
+[2026-08-11 14:05:27] INFO: Processing Row 10: English Oral
+[2026-08-11 14:05:28] INFO: Row 10: SUCCESS
+[2026-08-11 14:05:28] INFO: Processing Row 11: English Written
+[2026-08-11 14:05:29] INFO: Row 11: SUCCESS
+[2026-08-11 14:05:29] INFO: Processing Row 12: Hindi
+[2026-08-11 14:05:30] INFO: Row 12: SUCCESS
+[2026-08-11 14:05:30] INFO: Processing Row 13: Urdu
+[2026-08-11 14:05:31] INFO: Row 13: SUCCESS
+[2026-08-11 14:05:31] INFO: Processing Row 14: Mathematics
+[2026-08-11 14:05:32] INFO: Row 14: SUCCESS
+[2026-08-11 14:05:32] INFO: Processing Row 15: General Awareness
+[2026-08-11 14:05:34] INFO: Row 15: SUCCESS
+[2026-08-11 14:05:34] INFO: Processing Row 16: Quran
+[2026-08-11 14:05:35] INFO: Row 16: SUCCESS
+[2026-08-11 14:05:35] INFO: Processing Row 17: Islamic Studies
+[2026-08-11 14:05:36] INFO: Row 17: SUCCESS
+[2026-08-11 14:05:36] INFO: Processing Row 18: Arabic
+[2026-08-11 14:05:36] INFO: Row 18: SUCCESS
+[2026-08-11 14:05:36] INFO: Processing Row 19: English Oral
+[2026-08-11 14:05:37] INFO: Row 19: SUCCESS
+[2026-08-11 14:05:37] INFO: Processing Row 20: English Written
+[2026-08-11 14:05:38] INFO: Row 20: SUCCESS
+[2026-08-11 14:05:38] INFO: Processing Row 21: Hindi
+[2026-08-11 14:05:39] INFO: Row 21: SUCCESS
+[2026-08-11 14:05:39] INFO: Processing Row 22: Urdu
+[2026-08-11 14:05:40] INFO: Row 22: SUCCESS
+[2026-08-11 14:05:40] INFO: Processing Row 23: Mathematics
+[2026-08-11 14:05:41] INFO: Row 23: SUCCESS
+[2026-08-11 14:05:41] INFO: Processing Row 24: General Awareness
+[2026-08-11 14:05:42] INFO: Row 24: SUCCESS
+[2026-08-11 14:05:42] INFO: Processing Row 25: Quran
+[2026-08-11 14:05:43] INFO: Row 25: SUCCESS
+[2026-08-11 14:05:43] INFO: Processing Row 26: Islamic Studies
+[2026-08-11 14:05:44] INFO: Row 26: SUCCESS
+[2026-08-11 14:05:44] INFO: Processing Row 27: Arabic
+[2026-08-11 14:05:45] INFO: Row 27: SUCCESS
+[2026-08-11 14:05:45] INFO: Processing Row 28: English Oral
+[2026-08-11 14:05:46] INFO: Row 28: SUCCESS
+[2026-08-11 14:05:46] INFO: Processing Row 29: English Written
+[2026-08-11 14:05:46] INFO: Row 29: SUCCESS
+[2026-08-11 14:05:46] INFO: Processing Row 30: Hindi
+[2026-08-11 14:05:47] INFO: Row 30: SUCCESS
+[2026-08-11 14:05:47] INFO: Processing Row 31: Urdu
+[2026-08-11 14:05:48] INFO: Row 31: SUCCESS
+[2026-08-11 14:05:48] INFO: Processing Row 32: Mathematics
+[2026-08-11 14:05:49] INFO: Row 32: SUCCESS
+[2026-08-11 14:05:49] INFO: Processing Row 33: Science
+[2026-08-11 14:05:50] INFO: Row 33: SUCCESS
+[2026-08-11 14:05:50] INFO: Processing Row 34: Quran
+[2026-08-11 14:05:51] INFO: Row 34: SUCCESS
+[2026-08-11 14:05:51] INFO: Processing Row 35: Islamic Studies
+[2026-08-11 14:05:52] INFO: Row 35: SUCCESS
+[2026-08-11 14:05:52] INFO: Processing Row 36: Arabic
+[2026-08-11 14:05:53] INFO: Row 36: SUCCESS
+[2026-08-11 14:05:53] INFO: Processing Row 37: English Oral
+[2026-08-11 14:05:54] INFO: Row 37: SUCCESS
+[2026-08-11 14:05:54] INFO: Processing Row 38: English Written
+[2026-08-11 14:05:55] INFO: Row 38: SUCCESS
+[2026-08-11 14:05:55] INFO: Processing Row 39: Hindi
+[2026-08-11 14:05:56] INFO: Row 39: SUCCESS
+[2026-08-11 14:05:56] INFO: Processing Row 40: Urdu
+[2026-08-11 14:05:57] INFO: Row 40: SUCCESS
+[2026-08-11 14:05:57] INFO: Processing Row 41: Mathematics
+[2026-08-11 14:05:58] INFO: Row 41: SUCCESS
+[2026-08-11 14:05:58] INFO: Processing Row 42: Science
+[2026-08-11 14:05:59] INFO: Row 42: SUCCESS
+[2026-08-11 14:05:59] INFO: Processing Row 43: Quran
+[2026-08-11 14:06:00] INFO: Row 43: SUCCESS
+[2026-08-11 14:06:00] INFO: Processing Row 44: Islamic Studies
+[2026-08-11 14:06:01] INFO: Row 44: SUCCESS
+[2026-08-11 14:06:01] INFO: Processing Row 45: Arabic
+[2026-08-11 14:06:02] INFO: Row 45: SUCCESS
+[2026-08-11 14:06:02] INFO: Processing Row 46: Quran
+[2026-08-11 14:06:08] ERROR: Row 46: FAILED
+[2026-08-11 14:06:09] INFO: Processing Row 47: Islamic Studies
+[2026-08-11 14:06:21] ERROR: Error while creating subject 'Islamic Studies': page.waitForSelector: Test ended.
+Call log:
+[2m  - waiting for locator('a:has-text("Add subject"), button:has-text("Add New Subject"), .addlink') to be visible[22m
+
+[2026-08-11 14:06:21] ERROR: Row 47: FAILED
+[2026-08-11 14:06:21] INFO: Processing Row 48: Arabic
+[2026-08-11 14:06:21] ERROR: Error while creating subject 'Arabic': page.isVisible: Target page, context or browser has been closed
+[2026-08-11 14:06:21] ERROR: Row 48: FAILED
+[2026-08-11 14:06:21] INFO: Report generated successfully at: D:\play\reports\SubjectCreation_Report.xlsx
+[2026-08-13 14:18:23] INFO: Starting Automation...
+[2026-08-13 14:18:25] INFO: Excel Loaded Successfully
+[2026-08-13 14:18:25] INFO: Total Records : 109
+[2026-08-13 14:18:25] INFO: Navigating to Login Page...
+[2026-08-13 14:18:26] INFO: Entering credentials...
+[2026-08-13 14:18:26] INFO: Clicking Login button...
+[2026-08-13 14:18:27] INFO: Login successful.
+[2026-08-13 14:18:27] INFO: Navigating to Subjects Section...
+[2026-08-13 14:18:27] INFO: Already on Subjects page.
+[2026-08-13 14:18:27] INFO: Processing Row 2: Noorani Qaida
+[2026-08-13 14:18:28] INFO: Row 2: SUCCESS
+[2026-08-13 14:18:28] INFO: Processing Row 3: Noorani Qaida
+[2026-08-13 14:18:29] INFO: Row 3: SUCCESS
+[2026-08-13 14:18:29] INFO: Processing Row 4: Noorani Qaida
+[2026-08-13 14:18:30] INFO: Row 4: SUCCESS
+[2026-08-13 14:18:30] INFO: Processing Row 5: Noorani Qaida
+[2026-08-13 14:18:31] INFO: Row 5: SUCCESS
+[2026-08-13 14:18:31] INFO: Processing Row 6: Noorani Qaida
+[2026-08-13 14:18:33] INFO: Row 6: SUCCESS
+[2026-08-13 14:18:33] INFO: Processing Row 7: Noorani Qaida
+[2026-08-13 14:18:33] INFO: Row 7: SUCCESS
+[2026-08-13 14:18:33] INFO: Processing Row 8: Noorani Qaida
+[2026-08-13 14:18:34] INFO: Row 8: SUCCESS
+[2026-08-13 14:18:34] INFO: Processing Row 9: Noorani Qaida
+[2026-08-13 14:18:35] INFO: Row 9: SUCCESS
+[2026-08-13 14:18:35] INFO: Processing Row 10: Noorani Qaida
+[2026-08-13 14:18:36] INFO: Row 10: SUCCESS
+[2026-08-13 14:18:36] INFO: Processing Row 11: Noorani Qaida
+[2026-08-13 14:18:38] INFO: Row 11: SUCCESS
+[2026-08-13 14:18:38] INFO: Processing Row 12: Noorani Qaida
+[2026-08-13 14:18:39] INFO: Row 12: SUCCESS
+[2026-08-13 14:18:39] INFO: Processing Row 13: Noorani Qaida
+[2026-08-13 14:18:40] INFO: Row 13: SUCCESS
+[2026-08-13 14:18:40] INFO: Processing Row 14: Noorani Qaida
+[2026-08-13 14:18:41] INFO: Row 14: SUCCESS
+[2026-08-13 14:18:41] INFO: Processing Row 15: Arabic
+[2026-08-13 14:18:42] INFO: Row 15: SUCCESS
+[2026-08-13 14:18:42] INFO: Processing Row 16: Arabic
+[2026-08-13 14:18:43] INFO: Row 16: SUCCESS
+[2026-08-13 14:18:43] INFO: Processing Row 17: Arabic
+[2026-08-13 14:18:44] INFO: Row 17: SUCCESS
+[2026-08-13 14:18:44] INFO: Processing Row 18: Arabic
+[2026-08-13 14:18:45] INFO: Row 18: SUCCESS
+[2026-08-13 14:18:45] INFO: Processing Row 19: Arabic
+[2026-08-13 14:18:46] INFO: Row 19: SUCCESS
+[2026-08-13 14:18:46] INFO: Processing Row 20: Arabic
+[2026-08-13 14:18:47] INFO: Row 20: SUCCESS
+[2026-08-13 14:18:47] INFO: Processing Row 21: Arabic
+[2026-08-13 14:18:47] INFO: Row 21: SUCCESS
+[2026-08-13 14:18:47] INFO: Processing Row 22: Arabic
+[2026-08-13 14:18:48] INFO: Row 22: SUCCESS
+[2026-08-13 14:18:48] INFO: Processing Row 23: Arabic
+[2026-08-13 14:18:49] INFO: Row 23: SUCCESS
+[2026-08-13 14:18:49] INFO: Processing Row 24: Arabic
+[2026-08-13 14:18:50] INFO: Row 24: SUCCESS
+[2026-08-13 14:18:50] INFO: Processing Row 25: Arabic
+[2026-08-13 14:18:51] INFO: Row 25: SUCCESS
+[2026-08-13 14:18:51] INFO: Processing Row 26: Drawing
+[2026-08-13 14:18:53] INFO: Row 26: SUCCESS
+[2026-08-13 14:18:53] INFO: Processing Row 27: Drawing
+[2026-08-13 14:18:54] INFO: Row 27: SUCCESS
+[2026-08-13 14:18:54] INFO: Processing Row 28: Drawing
+[2026-08-13 14:18:55] INFO: Row 28: SUCCESS
+[2026-08-13 14:18:55] INFO: Processing Row 29: Drawing
+[2026-08-13 14:18:56] INFO: Row 29: SUCCESS
+[2026-08-13 14:18:56] INFO: Processing Row 30: Drawing
+[2026-08-13 14:18:57] INFO: Row 30: SUCCESS
+[2026-08-13 14:18:57] INFO: Processing Row 31: Drawing
+[2026-08-13 14:18:58] INFO: Row 31: SUCCESS
+[2026-08-13 14:18:58] INFO: Processing Row 32: Drawing
+[2026-08-13 14:18:59] INFO: Row 32: SUCCESS
+[2026-08-13 14:18:59] INFO: Processing Row 33: Drawing
+[2026-08-13 14:19:00] INFO: Row 33: SUCCESS
+[2026-08-13 14:19:00] INFO: Processing Row 34: Drawing
+[2026-08-13 14:19:01] INFO: Row 34: SUCCESS
+[2026-08-13 14:19:01] INFO: Processing Row 35: Drawing
+[2026-08-13 14:19:02] INFO: Row 35: SUCCESS
+[2026-08-13 14:19:02] INFO: Processing Row 36: Drawing
+[2026-08-13 14:19:03] INFO: Row 36: SUCCESS
+[2026-08-13 14:19:03] INFO: Processing Row 37: Drawing
+[2026-08-13 14:19:04] INFO: Row 37: SUCCESS
+[2026-08-13 14:19:04] INFO: Processing Row 38: Drawing
+[2026-08-13 14:19:05] INFO: Row 38: SUCCESS
+[2026-08-13 14:19:05] INFO: Processing Row 39: Games
+[2026-08-13 14:19:06] INFO: Row 39: SUCCESS
+[2026-08-13 14:19:06] INFO: Processing Row 40: Games
+[2026-08-13 14:19:08] INFO: Row 40: SUCCESS
+[2026-08-13 14:19:08] INFO: Processing Row 41: Games
+[2026-08-13 14:19:09] INFO: Row 41: SUCCESS
+[2026-08-13 14:19:09] INFO: Processing Row 42: Games
+[2026-08-13 14:19:10] INFO: Row 42: SUCCESS
+[2026-08-13 14:19:10] INFO: Processing Row 43: Games
+[2026-08-13 14:19:11] INFO: Row 43: SUCCESS
+[2026-08-13 14:19:11] INFO: Processing Row 44: Games
+[2026-08-13 14:19:12] INFO: Row 44: SUCCESS
+[2026-08-13 14:19:12] INFO: Processing Row 45: Games
+[2026-08-13 14:19:13] INFO: Row 45: SUCCESS
+[2026-08-13 14:19:13] INFO: Processing Row 46: Games
+[2026-08-13 14:19:14] INFO: Row 46: SUCCESS
+[2026-08-13 14:19:14] INFO: Processing Row 47: Games
+[2026-08-13 14:19:15] INFO: Row 47: SUCCESS
+[2026-08-13 14:19:15] INFO: Processing Row 48: Games
+[2026-08-13 14:19:16] INFO: Row 48: SUCCESS
+[2026-08-13 14:19:16] INFO: Processing Row 49: Games
+[2026-08-13 14:19:17] INFO: Row 49: SUCCESS
+[2026-08-13 14:19:17] INFO: Processing Row 50: Games
+[2026-08-13 14:19:18] INFO: Row 50: SUCCESS
+[2026-08-13 14:19:18] INFO: Processing Row 51: Games
+[2026-08-13 14:19:19] INFO: Row 51: SUCCESS
+[2026-08-13 14:19:19] INFO: Processing Row 52: Islamic Studies
+[2026-08-13 14:19:20] INFO: Row 52: SUCCESS
+[2026-08-13 14:19:20] INFO: Processing Row 53: Islamic Studies
+[2026-08-13 14:19:21] INFO: Row 53: SUCCESS
+[2026-08-13 14:19:21] INFO: Processing Row 54: Islamic Studies
+[2026-08-13 14:19:22] INFO: Row 54: SUCCESS
+[2026-08-13 14:19:22] INFO: Processing Row 55: Islamic Studies
+[2026-08-13 14:19:23] INFO: Row 55: SUCCESS
+[2026-08-13 14:19:23] INFO: Processing Row 56: Islamic Studies
+[2026-08-13 14:19:24] INFO: Row 56: SUCCESS
+[2026-08-13 14:19:24] INFO: Processing Row 57: Islamic Studies
+[2026-08-13 14:19:25] INFO: Row 57: SUCCESS
+[2026-08-13 14:19:25] INFO: Processing Row 58: Islamic Studies
+[2026-08-13 14:19:26] INFO: Row 58: SUCCESS
+[2026-08-13 14:19:26] INFO: Processing Row 59: Islamic Studies
+[2026-08-13 14:19:27] INFO: Row 59: SUCCESS
+[2026-08-13 14:19:27] INFO: Processing Row 60: EVS
+[2026-08-13 14:19:28] INFO: Row 60: SUCCESS
+[2026-08-13 14:19:28] INFO: Processing Row 61: EVS
+[2026-08-13 14:19:29] INFO: Row 61: SUCCESS
+[2026-08-13 14:19:29] INFO: Processing Row 62: EVS
+[2026-08-13 14:19:30] INFO: Row 62: SUCCESS
+[2026-08-13 14:19:30] INFO: Processing Row 63: EVS
+[2026-08-13 14:19:31] INFO: Row 63: SUCCESS
+[2026-08-13 14:19:31] INFO: Processing Row 64: EVS
+[2026-08-13 14:19:32] INFO: Row 64: SUCCESS
+[2026-08-13 14:19:32] INFO: Processing Row 65: EVS
+[2026-08-13 14:19:33] INFO: Row 65: SUCCESS
+[2026-08-13 14:19:33] INFO: Processing Row 66: EVS
+[2026-08-13 14:19:34] INFO: Row 66: SUCCESS
+[2026-08-13 14:19:34] INFO: Processing Row 67: EVS
+[2026-08-13 14:19:35] INFO: Row 67: SUCCESS
+[2026-08-13 14:19:35] INFO: Processing Row 68: Algebra
+[2026-08-13 14:19:36] INFO: Row 68: SUCCESS
+[2026-08-13 14:19:36] INFO: Processing Row 69: Algebra
+[2026-08-13 14:19:37] INFO: Row 69: SUCCESS
+[2026-08-13 14:19:37] INFO: Processing Row 70: Algebra
+[2026-08-13 14:19:38] INFO: Row 70: SUCCESS
+[2026-08-13 14:19:38] INFO: Processing Row 71: Algebra
+[2026-08-13 14:19:39] INFO: Row 71: SUCCESS
+[2026-08-13 14:19:39] INFO: Processing Row 72: Algebra
+[2026-08-13 14:19:40] INFO: Row 72: SUCCESS
+[2026-08-13 14:19:40] INFO: Processing Row 73: Geometry
+[2026-08-13 14:19:41] INFO: Row 73: SUCCESS
+[2026-08-13 14:19:41] INFO: Processing Row 74: Geometry
+[2026-08-13 14:19:42] INFO: Row 74: SUCCESS
+[2026-08-13 14:19:42] INFO: Processing Row 75: Geometry
+[2026-08-13 14:19:43] INFO: Row 75: SUCCESS
+[2026-08-13 14:19:43] INFO: Processing Row 76: Geometry
+[2026-08-13 14:19:44] INFO: Row 76: SUCCESS
+[2026-08-13 14:19:44] INFO: Processing Row 77: Geometry
+[2026-08-13 14:19:45] INFO: Row 77: SUCCESS
+[2026-08-13 14:19:45] INFO: Processing Row 78: Physics
+[2026-08-13 14:19:46] INFO: Row 78: SUCCESS
+[2026-08-13 14:19:46] INFO: Processing Row 79: Physics
+[2026-08-13 14:19:47] INFO: Row 79: SUCCESS
+[2026-08-13 14:19:47] INFO: Processing Row 80: Physics
+[2026-08-13 14:19:48] INFO: Row 80: SUCCESS
+[2026-08-13 14:19:48] INFO: Processing Row 81: Physics
+[2026-08-13 14:19:49] INFO: Row 81: SUCCESS
+[2026-08-13 14:19:49] INFO: Processing Row 82: Physics
+[2026-08-13 14:19:50] INFO: Row 82: SUCCESS
+[2026-08-13 14:19:50] INFO: Processing Row 83: Chemistry
+[2026-08-13 14:19:51] INFO: Row 83: SUCCESS
+[2026-08-13 14:19:51] INFO: Processing Row 84: Chemistry
+[2026-08-13 14:19:52] INFO: Row 84: SUCCESS
+[2026-08-13 14:19:52] INFO: Processing Row 85: Chemistry
+[2026-08-13 14:19:53] INFO: Row 85: SUCCESS
+[2026-08-13 14:19:53] INFO: Processing Row 86: Chemistry
+[2026-08-13 14:19:54] INFO: Row 86: SUCCESS
+[2026-08-13 14:19:54] INFO: Processing Row 87: Chemistry
+[2026-08-13 14:19:56] INFO: Row 87: SUCCESS
+[2026-08-13 14:19:56] INFO: Processing Row 88: Biology
+[2026-08-13 14:19:56] INFO: Row 88: SUCCESS
+[2026-08-13 14:19:56] INFO: Processing Row 89: Biology
+[2026-08-13 14:19:58] INFO: Row 89: SUCCESS
+[2026-08-13 14:19:58] INFO: Processing Row 90: Biology
+[2026-08-13 14:19:58] INFO: Row 90: SUCCESS
+[2026-08-13 14:19:58] INFO: Processing Row 91: Biology
+[2026-08-13 14:19:59] INFO: Row 91: SUCCESS
+[2026-08-13 14:19:59] INFO: Processing Row 92: Biology
+[2026-08-13 14:20:01] INFO: Row 92: SUCCESS
+[2026-08-13 14:20:01] INFO: Processing Row 93: Geography
+[2026-08-13 14:20:02] INFO: Row 93: SUCCESS
+[2026-08-13 14:20:02] INFO: Processing Row 94: Geography
+[2026-08-13 14:20:03] INFO: Row 94: SUCCESS
+[2026-08-13 14:20:03] INFO: Processing Row 95: Geography
+[2026-08-13 14:20:05] INFO: Row 95: SUCCESS
+[2026-08-13 14:20:05] INFO: Processing Row 96: Geography
+[2026-08-13 14:20:06] INFO: Row 96: SUCCESS
+[2026-08-13 14:20:06] INFO: Processing Row 97: History
+[2026-08-13 14:20:07] INFO: Row 97: SUCCESS
+[2026-08-13 14:20:07] INFO: Processing Row 98: History
+[2026-08-13 14:20:08] INFO: Row 98: SUCCESS
+[2026-08-13 14:20:08] INFO: Processing Row 99: History
+[2026-08-13 14:20:09] INFO: Row 99: SUCCESS
+[2026-08-13 14:20:09] INFO: Processing Row 100: History
+[2026-08-13 14:20:11] INFO: Row 100: SUCCESS
+[2026-08-13 14:20:11] INFO: Processing Row 101: Political Science
+[2026-08-13 14:20:12] INFO: Row 101: SUCCESS
+[2026-08-13 14:20:12] INFO: Processing Row 102: Political Science
+[2026-08-13 14:20:13] INFO: Row 102: SUCCESS
+[2026-08-13 14:20:13] INFO: Processing Row 103: Political Science
+[2026-08-13 14:20:14] INFO: Row 103: SUCCESS
+[2026-08-13 14:20:14] INFO: Processing Row 104: Political Science
+[2026-08-13 14:20:15] INFO: Row 104: SUCCESS
+[2026-08-13 14:20:15] INFO: Processing Row 105: Political Science
+[2026-08-13 14:20:16] INFO: Row 105: SUCCESS
+[2026-08-13 14:20:16] INFO: Processing Row 106: Economics
+[2026-08-13 14:20:17] INFO: Row 106: SUCCESS
+[2026-08-13 14:20:17] INFO: Processing Row 107: Economics
+[2026-08-13 14:20:18] INFO: Row 107: SUCCESS
+[2026-08-13 14:20:18] INFO: Processing Row 108: Economics
+[2026-08-13 14:20:19] INFO: Row 108: SUCCESS
+[2026-08-13 14:20:19] INFO: Processing Row 109: Economics
+[2026-08-13 14:20:20] INFO: Row 109: SUCCESS
+[2026-08-13 14:20:20] INFO: Processing Row 110: Economics
+[2026-08-13 14:20:21] INFO: Row 110: SUCCESS
+[2026-08-13 14:20:21] INFO: Report generated successfully at: D:\play\reports\SubjectCreation_Report.xlsx
+[2026-08-14 13:48:12] INFO: Starting Automation...
+[2026-08-14 13:48:14] INFO: Excel Loaded Successfully
+[2026-08-14 13:48:14] INFO: Total Records : 25
+[2026-08-14 13:48:14] INFO: Navigating to Login Page...
+[2026-08-14 13:48:15] INFO: Entering credentials...
+[2026-08-14 13:48:15] INFO: Clicking Login button...
+[2026-08-14 13:48:16] INFO: Login successful.
+[2026-08-14 13:48:16] INFO: Navigating to Subjects Section...
+[2026-08-14 13:48:16] INFO: Already on Subjects page.
+[2026-08-14 13:48:16] INFO: Processing Row 2: Hindi
+[2026-08-14 13:48:17] INFO: Row 2: SUCCESS
+[2026-08-14 13:48:17] INFO: Processing Row 3: Hindi
+[2026-08-14 13:48:18] INFO: Row 3: SUCCESS
+[2026-08-14 13:48:18] INFO: Processing Row 4: Hindi
+[2026-08-14 13:48:19] INFO: Row 4: SUCCESS
+[2026-08-14 13:48:19] INFO: Processing Row 5: Hindi
+[2026-08-14 13:48:20] INFO: Row 5: SUCCESS
+[2026-08-14 13:48:20] INFO: Processing Row 6: Hindi
+[2026-08-14 13:48:21] INFO: Row 6: SUCCESS
+[2026-08-14 13:48:21] INFO: Processing Row 7: Sports
+[2026-08-14 13:48:22] INFO: Row 7: SUCCESS
+[2026-08-14 13:48:22] INFO: Processing Row 8: Sports
+[2026-08-14 13:48:24] INFO: Row 8: SUCCESS
+[2026-08-14 13:48:24] INFO: Processing Row 9: Sports
+[2026-08-14 13:48:25] INFO: Row 9: SUCCESS
+[2026-08-14 13:48:25] INFO: Processing Row 10: Sports
+[2026-08-14 13:48:26] INFO: Row 10: SUCCESS
+[2026-08-14 13:48:26] INFO: Processing Row 11: Sports
+[2026-08-14 13:48:27] INFO: Row 11: SUCCESS
+[2026-08-14 13:48:27] INFO: Processing Row 12: Sports
+[2026-08-14 13:48:28] INFO: Row 12: SUCCESS
+[2026-08-14 13:48:28] INFO: Processing Row 13: Sports
+[2026-08-14 13:48:29] INFO: Row 13: SUCCESS
+[2026-08-14 13:48:29] INFO: Processing Row 14: Sports
+[2026-08-14 13:48:30] INFO: Row 14: SUCCESS
+[2026-08-14 13:48:30] INFO: Processing Row 15: Sports
+[2026-08-14 13:48:31] INFO: Row 15: SUCCESS
+[2026-08-14 13:48:31] INFO: Processing Row 16: Sports
+[2026-08-14 13:48:32] INFO: Row 16: SUCCESS
+[2026-08-14 13:48:32] INFO: Processing Row 17: Sports
+[2026-08-14 13:48:33] INFO: Row 17: SUCCESS
+[2026-08-14 13:48:33] INFO: Processing Row 18: Sports
+[2026-08-14 13:48:34] INFO: Row 18: SUCCESS
+[2026-08-14 13:48:34] INFO: Processing Row 19: Sports
+[2026-08-14 13:48:35] INFO: Row 19: SUCCESS
+[2026-08-14 13:48:35] INFO: Processing Row 20: Sports
+[2026-08-14 13:48:36] INFO: Row 20: SUCCESS
+[2026-08-14 13:48:36] INFO: Processing Row 21: Sports
+[2026-08-14 13:48:37] INFO: Row 21: SUCCESS
+[2026-08-14 13:48:37] INFO: Processing Row 22: Art & Craft
+[2026-08-14 13:48:38] INFO: Row 22: SUCCESS
+[2026-08-14 13:48:38] INFO: Processing Row 23: Art & Craft
+[2026-08-14 13:48:39] INFO: Row 23: SUCCESS
+[2026-08-14 13:48:39] INFO: Processing Row 24: Art & Craft
+[2026-08-14 13:48:40] INFO: Row 24: SUCCESS
+[2026-08-14 13:48:40] INFO: Processing Row 25: Art & Craft
+[2026-08-14 13:48:41] INFO: Row 25: SUCCESS
+[2026-08-14 13:48:41] INFO: Processing Row 26: Art & Craft
+[2026-08-14 13:48:42] INFO: Row 26: SUCCESS
+[2026-08-14 13:48:42] INFO: Report generated successfully at: D:\play\reports\SubjectCreation_Report.xlsx
+[2026-08-17 11:37:48] INFO: Starting Automation...
+[2026-08-17 11:37:50] INFO: Excel Loaded Successfully
+[2026-08-17 11:37:50] INFO: Total Records : 25
+[2026-08-17 11:37:50] INFO: Navigating to Login Page...
+[2026-08-17 11:37:50] INFO: Entering credentials...
+[2026-08-17 11:37:50] INFO: Clicking Login button...
+[2026-08-17 11:37:51] INFO: Login successful.
+[2026-08-17 11:37:51] INFO: Navigating to Subjects Section...
+[2026-08-17 11:37:51] INFO: Already on Subjects page.
+[2026-08-17 11:37:51] INFO: Processing Row 2: Hindi
+[2026-08-17 11:37:52] INFO: Row 2: SUCCESS
+[2026-08-17 11:37:52] INFO: Processing Row 3: Hindi
+[2026-08-17 11:37:53] INFO: Row 3: SUCCESS
+[2026-08-17 11:37:53] INFO: Processing Row 4: Hindi
+[2026-08-17 11:37:54] INFO: Row 4: SUCCESS
+[2026-08-17 11:37:54] INFO: Processing Row 5: Hindi
+[2026-08-17 11:37:55] INFO: Row 5: SUCCESS
+[2026-08-17 11:37:55] INFO: Processing Row 6: Hindi
+[2026-08-17 11:37:59] INFO: Row 6: SUCCESS
+[2026-08-17 11:37:59] INFO: Processing Row 7: Hindi
+[2026-08-17 11:38:00] INFO: Row 7: SUCCESS
+[2026-08-17 11:38:00] INFO: Processing Row 8: Hindi
+[2026-08-17 11:38:01] INFO: Row 8: SUCCESS
+[2026-08-17 11:38:01] INFO: Processing Row 9: Physical Education
+[2026-08-17 11:38:02] INFO: Row 9: SUCCESS
+[2026-08-17 11:38:02] INFO: Processing Row 10: Physical Education
+[2026-08-17 11:38:04] INFO: Row 10: SUCCESS
+[2026-08-17 11:38:04] INFO: Processing Row 11: Physical Education
+[2026-08-17 11:38:05] INFO: Row 11: SUCCESS
+[2026-08-17 11:38:05] INFO: Processing Row 12: Physical Education
+[2026-08-17 11:38:06] INFO: Row 12: SUCCESS
+[2026-08-17 11:38:06] INFO: Processing Row 13: Physical Education
+[2026-08-17 11:38:07] INFO: Row 13: SUCCESS
+[2026-08-17 11:38:07] INFO: Processing Row 14: Physical Education
+[2026-08-17 11:38:08] INFO: Row 14: SUCCESS
+[2026-08-17 11:38:08] INFO: Processing Row 15: Physical Education
+[2026-08-17 11:38:10] INFO: Row 15: SUCCESS
+[2026-08-17 11:38:10] INFO: Processing Row 16: Physical Education
+[2026-08-17 11:38:11] INFO: Row 16: SUCCESS
+[2026-08-17 11:38:11] INFO: Processing Row 17: Physical Education
+[2026-08-17 11:38:12] INFO: Row 17: SUCCESS
+[2026-08-17 11:38:12] INFO: Processing Row 18: Cursive
+[2026-08-17 11:38:13] INFO: Row 18: SUCCESS
+[2026-08-17 11:38:13] INFO: Processing Row 19: Cursive
+[2026-08-17 11:38:14] INFO: Row 19: SUCCESS
+[2026-08-17 11:38:14] INFO: Processing Row 20: Cursive
+[2026-08-17 11:38:16] INFO: Row 20: SUCCESS
+[2026-08-17 11:38:16] INFO: Processing Row 21: Cursive
+[2026-08-17 11:38:17] INFO: Row 21: SUCCESS
+[2026-08-17 11:38:17] INFO: Processing Row 22: Cursive
+[2026-08-17 11:38:18] INFO: Row 22: SUCCESS
+[2026-08-17 11:38:18] INFO: Processing Row 23: Cursive
+[2026-08-17 11:38:19] INFO: Row 23: SUCCESS
+[2026-08-17 11:38:19] INFO: Processing Row 24: Cursive
+[2026-08-17 11:38:20] INFO: Row 24: SUCCESS
+[2026-08-17 11:38:20] INFO: Processing Row 25: Cursive
+[2026-08-17 11:38:21] INFO: Row 25: SUCCESS
+[2026-08-17 11:38:21] INFO: Processing Row 26: Cursive
+[2026-08-17 11:38:22] INFO: Row 26: SUCCESS
+[2026-08-17 11:38:22] INFO: Report generated successfully at: D:\play\reports\SubjectCreation_Report.xlsx
+[2026-08-18 11:04:45] INFO: Starting Automation...
+[2026-08-18 11:04:46] INFO: Excel Loaded Successfully
+[2026-08-18 11:04:46] INFO: Total Records : 24
+[2026-08-18 11:04:46] INFO: Navigating to Login Page...
+[2026-08-18 11:04:47] INFO: Entering credentials...
+[2026-08-18 11:04:47] INFO: Clicking Login button...
+[2026-08-18 11:04:48] INFO: Login successful.
+[2026-08-18 11:04:48] INFO: Navigating to Subjects Section...
+[2026-08-18 11:04:48] INFO: Already on Subjects page.
+[2026-08-18 11:04:48] INFO: Processing Row 2: Rhymes
+[2026-08-18 11:04:49] INFO: Row 2: SUCCESS
+[2026-08-18 11:04:49] INFO: Processing Row 3: Rhymes
+[2026-08-18 11:04:51] INFO: Row 3: SUCCESS
+[2026-08-18 11:04:51] INFO: Processing Row 4: Rhymes
+[2026-08-18 11:04:52] INFO: Row 4: SUCCESS
+[2026-08-18 11:04:52] INFO: Processing Row 5: Rhymes
+[2026-08-18 11:04:53] INFO: Row 5: SUCCESS
+[2026-08-18 11:04:53] INFO: Processing Row 6: Play
+[2026-08-18 11:04:54] INFO: Row 6: SUCCESS
+[2026-08-18 11:04:54] INFO: Processing Row 7: Play
+[2026-08-18 11:04:55] INFO: Row 7: SUCCESS
+[2026-08-18 11:04:55] INFO: Processing Row 8: Play
+[2026-08-18 11:04:56] INFO: Row 8: SUCCESS
+[2026-08-18 11:04:56] INFO: Processing Row 9: Play
+[2026-08-18 11:04:57] INFO: Row 9: SUCCESS
+[2026-08-18 11:04:57] INFO: Processing Row 10: Play
+[2026-08-18 11:04:58] INFO: Row 10: SUCCESS
+[2026-08-18 11:04:58] INFO: Processing Row 11: Play
+[2026-08-18 11:04:59] INFO: Row 11: SUCCESS
+[2026-08-18 11:04:59] INFO: Processing Row 12: Play
+[2026-08-18 11:05:01] INFO: Row 12: SUCCESS
+[2026-08-18 11:05:01] INFO: Processing Row 13: Play
+[2026-08-18 11:05:03] INFO: Row 13: SUCCESS
+[2026-08-18 11:05:03] INFO: Processing Row 14: Play
+[2026-08-18 11:05:05] INFO: Row 14: SUCCESS
+[2026-08-18 11:05:05] INFO: Processing Row 15: Play
+[2026-08-18 11:05:06] INFO: Row 15: SUCCESS
+[2026-08-18 11:05:06] INFO: Processing Row 16: Play
+[2026-08-18 11:05:07] INFO: Row 16: SUCCESS
+[2026-08-18 11:05:07] INFO: Processing Row 17: Noorani Qaida
+[2026-08-18 11:05:09] INFO: Row 17: SUCCESS
+[2026-08-18 11:05:09] INFO: Processing Row 18: Noorani Qaida
+[2026-08-18 11:05:10] INFO: Row 18: SUCCESS
+[2026-08-18 11:05:10] INFO: Processing Row 19: Noorani Qaida
+[2026-08-18 11:05:11] INFO: Row 19: SUCCESS
+[2026-08-18 11:05:11] INFO: Processing Row 20: Noorani Qaida
+[2026-08-18 11:05:12] INFO: Row 20: SUCCESS
+[2026-08-18 11:05:12] INFO: Processing Row 21: Noorani Qaida
+[2026-08-18 11:05:14] INFO: Row 21: SUCCESS
+[2026-08-18 11:05:14] INFO: Processing Row 22: Noorani Qaida
+[2026-08-18 11:05:15] INFO: Row 22: SUCCESS
+[2026-08-18 11:05:15] INFO: Processing Row 23: Noorani Qaida
+[2026-08-18 11:05:16] INFO: Row 23: SUCCESS
+[2026-08-18 11:05:16] INFO: Processing Row 24: Noorani Qaida
+[2026-08-18 11:05:17] INFO: Row 24: SUCCESS
+[2026-08-18 11:05:17] INFO: Processing Row 25: Noorani Qaida
+[2026-08-18 11:05:18] INFO: Row 25: SUCCESS
+[2026-08-18 11:05:18] INFO: Report generated successfully at: D:\play\reports\SubjectCreation_Report.xlsx
+[2026-08-23 11:30:50] INFO: Starting Automation...
+[2026-08-23 11:30:53] INFO: Excel Loaded Successfully
+[2026-08-23 11:30:53] INFO: Total Records : 56
+[2026-08-23 11:30:53] INFO: Navigating to Login Page...
+[2026-08-23 11:30:54] INFO: Entering credentials...
+[2026-08-23 11:30:55] INFO: Clicking Login button...
+[2026-08-23 11:30:58] INFO: Login successful.
+[2026-08-23 11:30:58] INFO: Navigating to Subjects Section...
+[2026-08-23 11:30:58] INFO: Already on Subjects page.
+[2026-08-23 11:30:58] INFO: Processing Row 2: Physical Education
+[2026-08-23 11:31:01] INFO: Row 2: SUCCESS
+[2026-08-23 11:31:01] INFO: Processing Row 3: Physical Education
+[2026-08-23 11:31:04] INFO: Row 3: SUCCESS
+[2026-08-23 11:31:04] INFO: Processing Row 4: Physical Education
+[2026-08-23 11:31:08] INFO: Row 4: SUCCESS
+[2026-08-23 11:31:08] INFO: Processing Row 5: Physical Education
+[2026-08-23 11:31:11] INFO: Row 5: SUCCESS
+[2026-08-23 11:31:11] INFO: Processing Row 6: Physical Education
+[2026-08-23 11:31:14] INFO: Row 6: SUCCESS
+[2026-08-23 11:31:14] INFO: Processing Row 7: Physical Education
+[2026-08-23 11:31:17] INFO: Row 7: SUCCESS
+[2026-08-23 11:31:17] INFO: Processing Row 8: Physical Education
+[2026-08-23 11:31:21] INFO: Row 8: SUCCESS
+[2026-08-23 11:31:21] INFO: Processing Row 9: Physical Education
+[2026-08-23 11:31:24] INFO: Row 9: SUCCESS
+[2026-08-23 11:31:24] INFO: Processing Row 10: Physical Education
+[2026-08-23 11:31:27] INFO: Row 10: SUCCESS
+[2026-08-23 11:31:27] INFO: Processing Row 11: Physical Education
+[2026-08-23 11:31:30] INFO: Row 11: SUCCESS
+[2026-08-23 11:31:30] INFO: Processing Row 12: Abacus
+[2026-08-23 11:31:33] INFO: Row 12: SUCCESS
+[2026-08-23 11:31:33] INFO: Processing Row 13: Abacus
+[2026-08-23 11:31:37] INFO: Row 13: SUCCESS
+[2026-08-23 11:31:37] INFO: Processing Row 14: Abacus
+[2026-08-23 11:31:40] INFO: Row 14: SUCCESS
+[2026-08-23 11:31:40] INFO: Processing Row 15: Abacus
+[2026-08-23 11:31:46] INFO: Row 15: SUCCESS
+[2026-08-23 11:31:46] INFO: Processing Row 16: Abacus
+[2026-08-23 11:31:49] INFO: Row 16: SUCCESS
+[2026-08-23 11:31:49] INFO: Processing Row 17: Abacus
+[2026-08-23 11:31:51] INFO: Row 17: SUCCESS
+[2026-08-23 11:31:51] INFO: Processing Row 18: Abacus
+[2026-08-23 11:31:53] INFO: Row 18: SUCCESS
+[2026-08-23 11:31:53] INFO: Processing Row 19: Abacus
+[2026-08-23 11:31:55] INFO: Row 19: SUCCESS
+[2026-08-23 11:31:55] INFO: Processing Row 20: SPEAKING SKILLS
+[2026-08-23 11:31:58] INFO: Row 20: SUCCESS
+[2026-08-23 11:31:58] INFO: Processing Row 21: SPEAKING SKILLS
+[2026-08-23 11:32:00] INFO: Row 21: SUCCESS
+[2026-08-23 11:32:00] INFO: Processing Row 22: SPEAKING SKILLS
+[2026-08-23 11:32:02] INFO: Row 22: SUCCESS
+[2026-08-23 11:32:02] INFO: Processing Row 23: SPEAKING SKILLS
+[2026-08-23 11:32:04] INFO: Row 23: SUCCESS
+[2026-08-23 11:32:04] INFO: Processing Row 24: SPEAKING SKILLS
+[2026-08-23 11:32:06] INFO: Row 24: SUCCESS
+[2026-08-23 11:32:06] INFO: Processing Row 25: SPEAKING SKILLS
+[2026-08-23 11:32:09] INFO: Row 25: SUCCESS
+[2026-08-23 11:32:09] INFO: Processing Row 26: SPEAKING SKILLS
+[2026-08-23 11:32:10] INFO: Row 26: SUCCESS
+[2026-08-23 11:32:10] INFO: Processing Row 27: SPEAKING SKILLS
+[2026-08-23 11:32:12] INFO: Row 27: SUCCESS
+[2026-08-23 11:32:12] INFO: Processing Row 28: Reading Lobes
+[2026-08-23 11:32:14] INFO: Row 28: SUCCESS
+[2026-08-23 11:32:14] INFO: Processing Row 29: Reading Lobes
+[2026-08-23 11:32:16] INFO: Row 29: SUCCESS
+[2026-08-23 11:32:16] INFO: Processing Row 30: Reading Lobes
+[2026-08-23 11:32:18] INFO: Row 30: SUCCESS
+[2026-08-23 11:32:18] INFO: Processing Row 31: Reading Lobes
+[2026-08-23 11:32:20] INFO: Row 31: SUCCESS
+[2026-08-23 11:32:20] INFO: Processing Row 32: Reading Lobes
+[2026-08-23 11:32:23] INFO: Row 32: SUCCESS
+[2026-08-23 11:32:23] INFO: Processing Row 33: Reading Lobes
+[2026-08-23 11:32:25] INFO: Row 33: SUCCESS
+[2026-08-23 11:32:25] INFO: Processing Row 34: Communication Skills
+[2026-08-23 11:32:27] INFO: Row 34: SUCCESS
+[2026-08-23 11:32:27] INFO: Processing Row 35: Communication Skills
+[2026-08-23 11:32:30] INFO: Row 35: SUCCESS
+[2026-08-23 11:32:30] INFO: Processing Row 36: Communication Skills
+[2026-08-23 11:32:32] INFO: Row 36: SUCCESS
+[2026-08-23 11:32:32] INFO: Processing Row 37: Communication Skills
+[2026-08-23 11:32:34] INFO: Row 37: SUCCESS
+[2026-08-23 11:32:34] INFO: Processing Row 38: Communication Skills
+[2026-08-23 11:32:37] INFO: Row 38: SUCCESS
+[2026-08-23 11:32:37] INFO: Processing Row 39: Communication Skills
+[2026-08-23 11:32:39] INFO: Row 39: SUCCESS
+[2026-08-23 11:32:39] INFO: Processing Row 40: SPEAKING SKILLS
+[2026-08-23 11:32:40] INFO: Row 40: SUCCESS
+[2026-08-23 11:32:40] INFO: Processing Row 41: SPEAKING SKILLS
+[2026-08-23 11:32:42] INFO: Row 41: SUCCESS
+[2026-08-23 11:32:42] INFO: Processing Row 42: SPEAKING SKILLS
+[2026-08-23 11:32:44] INFO: Row 42: SUCCESS
+[2026-08-23 11:32:44] INFO: Processing Row 43: SPEAKING SKILLS
+[2026-08-23 11:32:46] INFO: Row 43: SUCCESS
+[2026-08-23 11:32:46] INFO: Processing Row 44: SPEAKING SKILLS
+[2026-08-23 11:32:48] INFO: Row 44: SUCCESS
+[2026-08-23 11:32:48] INFO: Processing Row 45: SPEAKING SKILLS
+[2026-08-23 11:32:51] INFO: Row 45: SUCCESS
+[2026-08-23 11:32:51] INFO: Processing Row 46: Drawing
+[2026-08-23 11:32:53] INFO: Row 46: SUCCESS
+[2026-08-23 11:32:53] INFO: Processing Row 47: Drawing
+[2026-08-23 11:32:58] INFO: Row 47: SUCCESS
+[2026-08-23 11:32:58] INFO: Processing Row 48: Drawing
+[2026-08-23 11:33:00] INFO: Row 48: SUCCESS
+[2026-08-23 11:33:00] INFO: Processing Row 49: Drawing
+[2026-08-23 11:33:02] INFO: Row 49: SUCCESS
+[2026-08-23 11:33:02] INFO: Processing Row 50: Drawing
+[2026-08-23 11:33:04] INFO: Row 50: SUCCESS
+[2026-08-23 11:33:04] INFO: Processing Row 51: Drawing
+[2026-08-23 11:33:06] INFO: Row 51: SUCCESS
+[2026-08-23 11:33:06] INFO: Processing Row 52: Games
+[2026-08-23 11:33:08] INFO: Row 52: SUCCESS
+[2026-08-23 11:33:08] INFO: Processing Row 53: Games
+[2026-08-23 11:33:11] INFO: Row 53: SUCCESS
+[2026-08-23 11:33:11] INFO: Processing Row 54: Games
+[2026-08-23 11:33:15] INFO: Row 54: SUCCESS
+[2026-08-23 11:33:15] INFO: Processing Row 55: Games
+[2026-08-23 11:33:17] INFO: Row 55: SUCCESS
+[2026-08-23 11:33:17] INFO: Processing Row 56: Games
+[2026-08-23 11:33:20] INFO: Row 56: SUCCESS
+[2026-08-23 11:33:20] INFO: Processing Row 57: Games
+[2026-08-23 11:33:22] INFO: Row 57: SUCCESS
+[2026-08-23 11:33:22] INFO: Report generated successfully at: D:\play\reports\SubjectCreation_Report.xlsx
+[2026-08-23 12:18:06] INFO: Starting Automation...
+[2026-08-23 12:18:07] INFO: Excel Loaded Successfully
+[2026-08-23 12:18:07] INFO: Total Records : 50
+[2026-08-23 12:18:07] INFO: Navigating to Login Page...
+[2026-08-23 12:18:08] INFO: Entering credentials...
+[2026-08-23 12:18:09] INFO: Clicking Login button...
+[2026-08-23 12:18:11] INFO: Login successful.
+[2026-08-23 12:18:11] INFO: Navigating to Subjects Section...
+[2026-08-23 12:18:11] INFO: Already on Subjects page.
+[2026-08-23 12:18:11] INFO: Processing Row 2: Computer
+[2026-08-23 12:18:14] INFO: Row 2: SUCCESS
+[2026-08-23 12:18:14] INFO: Processing Row 3: English
+[2026-08-23 12:18:16] INFO: Row 3: SUCCESS
+[2026-08-23 12:18:16] INFO: Processing Row 4: Hindi
+[2026-08-23 12:18:18] INFO: Row 4: SUCCESS
+[2026-08-23 12:18:18] INFO: Processing Row 5: Mathematics
+[2026-08-23 12:18:20] INFO: Row 5: SUCCESS
+[2026-08-23 12:18:20] INFO: Processing Row 6: Science
+[2026-08-23 12:18:23] INFO: Row 6: SUCCESS
+[2026-08-23 12:18:23] INFO: Processing Row 7: Social Science
+[2026-08-23 12:18:25] INFO: Row 7: SUCCESS
+[2026-08-23 12:18:25] INFO: Processing Row 8: Talimul Islam
+[2026-08-23 12:18:27] INFO: Row 8: SUCCESS
+[2026-08-23 12:18:27] INFO: Processing Row 9: Urdu
+[2026-08-23 12:18:29] INFO: Row 9: SUCCESS
+[2026-08-23 12:18:29] INFO: Processing Row 10: Computer
+[2026-08-23 12:18:31] INFO: Row 10: SUCCESS
+[2026-08-23 12:18:31] INFO: Processing Row 11: English
+[2026-08-23 12:18:33] INFO: Row 11: SUCCESS
+[2026-08-23 12:18:33] INFO: Processing Row 12: Hindi
+[2026-08-23 12:18:34] INFO: Row 12: SUCCESS
+[2026-08-23 12:18:34] INFO: Processing Row 13: Mathematics
+[2026-08-23 12:18:36] INFO: Row 13: SUCCESS
+[2026-08-23 12:18:36] INFO: Processing Row 14: Science
+[2026-08-23 12:18:38] INFO: Row 14: SUCCESS
+[2026-08-23 12:18:38] INFO: Processing Row 15: Social Science
+[2026-08-23 12:18:40] INFO: Row 15: SUCCESS
+[2026-08-23 12:18:40] INFO: Processing Row 16: Talimul Islam
+[2026-08-23 12:18:43] INFO: Row 16: SUCCESS
+[2026-08-23 12:18:43] INFO: Processing Row 17: Urdu
+[2026-08-23 12:18:45] INFO: Row 17: SUCCESS
+[2026-08-23 12:18:45] INFO: Processing Row 18: Computer
+[2026-08-23 12:18:47] INFO: Row 18: SUCCESS
+[2026-08-23 12:18:47] INFO: Processing Row 19: English
+[2026-08-23 12:18:49] INFO: Row 19: SUCCESS
+[2026-08-23 12:18:49] INFO: Processing Row 20: Hindi
+[2026-08-23 12:18:50] INFO: Row 20: SUCCESS
+[2026-08-23 12:18:50] INFO: Processing Row 21: Mathematics
+[2026-08-23 12:18:52] INFO: Row 21: SUCCESS
+[2026-08-23 12:18:52] INFO: Processing Row 22: Science
+[2026-08-23 12:18:54] INFO: Row 22: SUCCESS
+[2026-08-23 12:18:54] INFO: Processing Row 23: Social Science
+[2026-08-23 12:18:57] INFO: Row 23: SUCCESS
+[2026-08-23 12:18:57] INFO: Processing Row 24: Urdu
+[2026-08-23 12:18:58] INFO: Row 24: SUCCESS
+[2026-08-23 12:18:58] INFO: Processing Row 25: Urdu
+[2026-08-23 12:19:00] INFO: Row 25: SUCCESS
+[2026-08-23 12:19:00] INFO: Processing Row 26: Urdu
+[2026-08-23 12:19:02] INFO: Row 26: SUCCESS
+[2026-08-23 12:19:02] INFO: Processing Row 27: Computer
+[2026-08-23 12:19:04] INFO: Row 27: SUCCESS
+[2026-08-23 12:19:04] INFO: Processing Row 28: English
+[2026-08-23 12:19:06] INFO: Row 28: SUCCESS
+[2026-08-23 12:19:06] INFO: Processing Row 29: Hindi
+[2026-08-23 12:19:08] INFO: Row 29: SUCCESS
+[2026-08-23 12:19:08] INFO: Processing Row 30: Mathematics
+[2026-08-23 12:19:10] INFO: Row 30: SUCCESS
+[2026-08-23 12:19:10] INFO: Processing Row 31: Science
+[2026-08-23 12:19:13] INFO: Row 31: SUCCESS
+[2026-08-23 12:19:13] INFO: Processing Row 32: Talimul Islam
+[2026-08-23 12:19:14] INFO: Row 32: SUCCESS
+[2026-08-23 12:19:14] INFO: Processing Row 33: Urdu
+[2026-08-23 12:19:17] INFO: Row 33: SUCCESS
+[2026-08-23 12:19:17] INFO: Processing Row 34: Computer
+[2026-08-23 12:19:19] INFO: Row 34: SUCCESS
+[2026-08-23 12:19:19] INFO: Processing Row 35: English
+[2026-08-23 12:19:21] INFO: Row 35: SUCCESS
+[2026-08-23 12:19:21] INFO: Processing Row 36: Hindi
+[2026-08-23 12:19:23] INFO: Row 36: SUCCESS
+[2026-08-23 12:19:23] INFO: Processing Row 37: Mathematics
+[2026-08-23 12:19:25] INFO: Row 37: SUCCESS
+[2026-08-23 12:19:25] INFO: Processing Row 38: Science
+[2026-08-23 12:19:27] INFO: Row 38: SUCCESS
+[2026-08-23 12:19:27] INFO: Processing Row 39: Urdu
+[2026-08-23 12:19:29] INFO: Row 39: SUCCESS
+[2026-08-23 12:19:29] INFO: Processing Row 40: Computer
+[2026-08-23 12:19:31] INFO: Row 40: SUCCESS
+[2026-08-23 12:19:31] INFO: Processing Row 41: English
+[2026-08-23 12:19:33] INFO: Row 41: SUCCESS
+[2026-08-23 12:19:33] INFO: Processing Row 42: Hindi
+[2026-08-23 12:19:35] INFO: Row 42: SUCCESS
+[2026-08-23 12:19:35] INFO: Processing Row 43: Mathematics
+[2026-08-23 12:19:37] INFO: Row 43: SUCCESS
+[2026-08-23 12:19:37] INFO: Processing Row 44: Science
+[2026-08-23 12:19:39] INFO: Row 44: SUCCESS
+[2026-08-23 12:19:39] INFO: Processing Row 45: Urdu
+[2026-08-23 12:19:41] INFO: Row 45: SUCCESS
+[2026-08-23 12:19:41] INFO: Processing Row 46: Computer
+[2026-08-23 12:19:43] INFO: Row 46: SUCCESS
+[2026-08-23 12:19:43] INFO: Processing Row 47: English
+[2026-08-23 12:19:45] INFO: Row 47: SUCCESS
+[2026-08-23 12:19:45] INFO: Processing Row 48: Hindi
+[2026-08-23 12:19:48] INFO: Row 48: SUCCESS
+[2026-08-23 12:19:48] INFO: Processing Row 49: Mathematics
+[2026-08-23 12:19:50] INFO: Row 49: SUCCESS
+[2026-08-23 12:19:50] INFO: Processing Row 50: Science
+[2026-08-23 12:19:52] INFO: Row 50: SUCCESS
+[2026-08-23 12:19:52] INFO: Processing Row 51: Urdu
+[2026-08-23 12:19:54] INFO: Row 51: SUCCESS
+[2026-08-23 12:19:54] INFO: Report generated successfully at: D:\play\reports\SubjectCreation_Report.xlsx
+[2026-08-24 15:54:59] INFO: Starting Automation...
+[2026-08-24 15:55:01] INFO: Excel Loaded Successfully
+[2026-08-24 15:55:01] INFO: Total Records : 32
+[2026-08-24 15:55:01] INFO: Navigating to Login Page...
+[2026-08-24 15:55:01] INFO: Entering credentials...
+[2026-08-24 15:55:01] INFO: Clicking Login button...
+[2026-08-24 15:55:03] INFO: Login successful.
+[2026-08-24 15:55:03] INFO: Navigating to Subjects Section...
+[2026-08-24 15:55:03] INFO: Already on Subjects page.
+[2026-08-24 15:55:03] INFO: Processing Row 2: I.L.S Mathematics
+[2026-08-24 15:55:05] INFO: Row 2: SUCCESS
+[2026-08-24 15:55:05] INFO: Processing Row 3: I.L.S Mathematics
+[2026-08-24 15:55:06] INFO: Row 3: SUCCESS
+[2026-08-24 15:55:06] INFO: Processing Row 4: I.L.S Mathematics
+[2026-08-24 15:55:07] INFO: Row 4: SUCCESS
+[2026-08-24 15:55:07] INFO: Processing Row 5: I.L.S Mathematics
+[2026-08-24 15:55:08] INFO: Row 5: SUCCESS
+[2026-08-24 15:55:08] INFO: Processing Row 6: I.L.S Mathematics
+[2026-08-24 15:55:09] INFO: Row 6: SUCCESS
+[2026-08-24 15:55:09] INFO: Processing Row 7: I.L.S Mathematics
+[2026-08-24 15:55:10] INFO: Row 7: SUCCESS
+[2026-08-24 15:55:10] INFO: Processing Row 8: I.L.S Mathematics
+[2026-08-24 15:55:11] INFO: Row 8: SUCCESS
+[2026-08-24 15:55:11] INFO: Processing Row 9: I.L.S Mathematics
+[2026-08-24 15:55:13] INFO: Row 9: SUCCESS
+[2026-08-24 15:55:13] INFO: Processing Row 10: I.L.S English
+[2026-08-24 15:55:14] INFO: Row 10: SUCCESS
+[2026-08-24 15:55:14] INFO: Processing Row 11: I.L.S English
+[2026-08-24 15:55:15] INFO: Row 11: SUCCESS
+[2026-08-24 15:55:15] INFO: Processing Row 12: I.L.S English
+[2026-08-24 15:55:16] INFO: Row 12: SUCCESS
+[2026-08-24 15:55:16] INFO: Processing Row 13: I.L.S English
+[2026-08-24 15:55:17] INFO: Row 13: SUCCESS
+[2026-08-24 15:55:17] INFO: Processing Row 14: I.L.S English
+[2026-08-24 15:55:18] INFO: Row 14: SUCCESS
+[2026-08-24 15:55:18] INFO: Processing Row 15: I.L.S English
+[2026-08-24 15:55:20] INFO: Row 15: SUCCESS
+[2026-08-24 15:55:20] INFO: Processing Row 16: I.L.S English
+[2026-08-24 15:55:21] INFO: Row 16: SUCCESS
+[2026-08-24 15:55:21] INFO: Processing Row 17: I.L.S English
+[2026-08-24 15:55:22] INFO: Row 17: SUCCESS
+[2026-08-24 15:55:22] INFO: Processing Row 18: I.L.S Marathi
+[2026-08-24 15:55:23] INFO: Row 18: SUCCESS
+[2026-08-24 15:55:23] INFO: Processing Row 19: I.L.S Marathi
+[2026-08-24 15:55:25] INFO: Row 19: SUCCESS
+[2026-08-24 15:55:25] INFO: Processing Row 20: I.L.S Marathi
+[2026-08-24 15:55:26] INFO: Row 20: SUCCESS
+[2026-08-24 15:55:26] INFO: Processing Row 21: I.L.S Marathi
+[2026-08-24 15:55:27] INFO: Row 21: SUCCESS
+[2026-08-24 15:55:27] INFO: Processing Row 22: I.L.S Marathi
+[2026-08-24 15:55:28] INFO: Row 22: SUCCESS
+[2026-08-24 15:55:28] INFO: Processing Row 23: I.L.S Marathi
+[2026-08-24 15:55:29] INFO: Row 23: SUCCESS
+[2026-08-24 15:55:29] INFO: Processing Row 24: I.L.S Marathi
+[2026-08-24 15:55:30] INFO: Row 24: SUCCESS
+[2026-08-24 15:55:30] INFO: Processing Row 25: I.L.S Marathi
+[2026-08-24 15:55:31] INFO: Row 25: SUCCESS
+[2026-08-24 15:55:31] INFO: Processing Row 26: I.L.S Hindi
+[2026-08-24 15:55:32] INFO: Row 26: SUCCESS
+[2026-08-24 15:55:32] INFO: Processing Row 27: I.L.S Hindi
+[2026-08-24 15:55:33] INFO: Row 27: SUCCESS
+[2026-08-24 15:55:33] INFO: Processing Row 28: I.L.S Hindi
+[2026-08-24 15:55:34] INFO: Row 28: SUCCESS
+[2026-08-24 15:55:34] INFO: Processing Row 29: I.L.S Hindi
+[2026-08-24 15:55:35] INFO: Row 29: SUCCESS
+[2026-08-24 15:55:35] INFO: Processing Row 30: I.L.S Hindi
+[2026-08-24 15:55:36] INFO: Row 30: SUCCESS
+[2026-08-24 15:55:36] INFO: Processing Row 31: I.L.S Hindi
+[2026-08-24 15:55:37] INFO: Row 31: SUCCESS
+[2026-08-24 15:55:37] INFO: Processing Row 32: I.L.S Hindi
+[2026-08-24 15:55:38] INFO: Row 32: SUCCESS
+[2026-08-24 15:55:38] INFO: Processing Row 33: I.L.S Hindi
+[2026-08-24 15:55:39] INFO: Row 33: SUCCESS
+[2026-08-24 15:55:39] INFO: Report generated successfully at: D:\play\reports\SubjectCreation_Report.xlsx
+[2026-08-25 11:35:52] INFO: Starting Automation...
+[2026-08-25 11:35:54] INFO: Excel Loaded Successfully
+[2026-08-25 11:35:54] INFO: Total Records : 22
+[2026-08-25 11:35:54] INFO: Navigating to Login Page...
+[2026-08-25 11:35:54] INFO: Entering credentials...
+[2026-08-25 11:35:54] INFO: Clicking Login button...
+[2026-08-25 11:35:55] INFO: Login successful.
+[2026-08-25 11:35:55] INFO: Navigating to Subjects Section...
+[2026-08-25 11:35:55] INFO: Already on Subjects page.
+[2026-08-25 11:35:55] INFO: Processing Row 2: Physics
+[2026-08-25 11:35:56] INFO: Row 2: SUCCESS
+[2026-08-25 11:35:56] INFO: Processing Row 3: Chemistry
+[2026-08-25 11:35:57] INFO: Row 3: SUCCESS
+[2026-08-25 11:35:57] INFO: Processing Row 4: Biology
+[2026-08-25 11:35:58] INFO: Row 4: SUCCESS
+[2026-08-25 11:35:58] INFO: Processing Row 5: History
+[2026-08-25 11:35:59] INFO: Row 5: SUCCESS
+[2026-08-25 11:35:59] INFO: Processing Row 6: Geography
+[2026-08-25 11:36:00] INFO: Row 6: SUCCESS
+[2026-08-25 11:36:00] INFO: Processing Row 7: Physics
+[2026-08-25 11:36:01] INFO: Row 7: SUCCESS
+[2026-08-25 11:36:01] INFO: Processing Row 8: Chemistry
+[2026-08-25 11:36:03] INFO: Row 8: SUCCESS
+[2026-08-25 11:36:03] INFO: Processing Row 9: Biology
+[2026-08-25 11:36:04] INFO: Row 9: SUCCESS
+[2026-08-25 11:36:04] INFO: Processing Row 10: History
+[2026-08-25 11:36:09] ERROR: Row 10: FAILED
+[2026-08-25 11:36:09] INFO: Processing Row 11: Geography
+[2026-08-25 11:36:09] ERROR: Error while creating subject 'Geography': page.isVisible: Target page, context or browser has been closed
+[2026-08-25 11:36:09] ERROR: Row 11: FAILED
+[2026-08-25 11:36:09] INFO: Processing Row 12: Value Education
+[2026-08-25 11:36:09] ERROR: Error while creating subject 'Value Education': page.isVisible: Target page, context or browser has been closed
+[2026-08-25 11:36:09] ERROR: Row 12: FAILED
+[2026-08-25 11:36:09] INFO: Processing Row 13: Value Education
+[2026-08-25 11:36:09] ERROR: Error while creating subject 'Value Education': page.isVisible: Target page, context or browser has been closed
+[2026-08-25 11:36:09] ERROR: Row 13: FAILED
+[2026-08-25 11:36:09] INFO: Processing Row 14: Value Education
+[2026-08-25 11:36:09] ERROR: Error while creating subject 'Value Education': page.isVisible: Target page, context or browser has been closed
+[2026-08-25 11:36:09] ERROR: Row 14: FAILED
+[2026-08-25 11:36:09] INFO: Processing Row 15: Value Education
+[2026-08-25 11:36:09] ERROR: Error while creating subject 'Value Education': page.isVisible: Target page, context or browser has been closed
+[2026-08-25 11:36:09] ERROR: Row 15: FAILED
+[2026-08-25 11:36:09] INFO: Processing Row 16: Value Education
+[2026-08-25 11:36:09] ERROR: Error while creating subject 'Value Education': page.isVisible: Target page, context or browser has been closed
+[2026-08-25 11:36:09] ERROR: Row 16: FAILED
+[2026-08-25 11:36:09] INFO: Processing Row 17: Value Education
+[2026-08-25 11:36:09] ERROR: Error while creating subject 'Value Education': page.isVisible: Target page, context or browser has been closed
+[2026-08-25 11:36:09] ERROR: Row 17: FAILED
+[2026-08-25 11:36:09] INFO: Processing Row 18: Library
+[2026-08-25 11:36:09] ERROR: Error while creating subject 'Library': page.isVisible: Target page, context or browser has been closed
+[2026-08-25 11:36:09] ERROR: Row 18: FAILED
+[2026-08-25 11:36:09] INFO: Processing Row 19: Library
+[2026-08-25 11:36:09] ERROR: Error while creating subject 'Library': page.isVisible: Target page, context or browser has been closed
+[2026-08-25 11:36:09] ERROR: Row 19: FAILED
+[2026-08-25 11:36:09] INFO: Processing Row 20: Library
+[2026-08-25 11:36:09] ERROR: Error while creating subject 'Library': page.isVisible: Target page, context or browser has been closed
+[2026-08-25 11:36:09] ERROR: Row 20: FAILED
+[2026-08-25 11:36:09] INFO: Processing Row 21: Library
+[2026-08-25 11:36:09] ERROR: Error while creating subject 'Library': page.isVisible: Target page, context or browser has been closed
+[2026-08-25 11:36:09] ERROR: Row 21: FAILED
+[2026-08-25 11:36:09] INFO: Processing Row 22: Library
+[2026-08-25 11:36:09] ERROR: Error while creating subject 'Library': page.isVisible: Target page, context or browser has been closed
+[2026-08-25 11:36:09] ERROR: Row 22: FAILED
+[2026-08-25 11:36:09] INFO: Processing Row 23: Library
+[2026-08-25 11:36:09] ERROR: Error while creating subject 'Library': page.isVisible: Target page, context or browser has been closed
+[2026-08-25 11:36:09] ERROR: Row 23: FAILED
+[2026-08-25 11:36:09] INFO: Report generated successfully at: D:\play\reports\SubjectCreation_Report.xlsx
+[2026-08-25 11:38:45] INFO: Starting Automation...
+[2026-08-25 11:38:45] INFO: Excel Loaded Successfully
+[2026-08-25 11:38:45] INFO: Total Records : 15
+[2026-08-25 11:38:45] INFO: Navigating to Login Page...
+[2026-08-25 11:38:45] INFO: Entering credentials...
+[2026-08-25 11:38:46] INFO: Clicking Login button...
+[2026-08-25 11:38:47] INFO: Login successful.
+[2026-08-25 11:38:47] INFO: Navigating to Subjects Section...
+[2026-08-25 11:38:47] INFO: Already on Subjects page.
+[2026-08-25 11:38:47] INFO: Processing Row 2: Physics
+[2026-08-25 11:38:48] INFO: Row 2: SUCCESS
+[2026-08-25 11:38:48] INFO: Processing Row 3: Chemistry
+[2026-08-25 11:38:49] INFO: Row 3: SUCCESS
+[2026-08-25 11:38:49] INFO: Processing Row 4: Biology
+[2026-08-25 11:38:50] INFO: Row 4: SUCCESS
+[2026-08-25 11:38:50] INFO: Processing Row 5: Value Education
+[2026-08-25 11:38:51] INFO: Row 5: SUCCESS
+[2026-08-25 11:38:51] INFO: Processing Row 6: Value Education
+[2026-08-25 11:38:52] INFO: Row 6: SUCCESS
+[2026-08-25 11:38:52] INFO: Processing Row 7: Value Education
+[2026-08-25 11:38:53] INFO: Row 7: SUCCESS
+[2026-08-25 11:38:53] INFO: Processing Row 8: Value Education
+[2026-08-25 11:38:54] INFO: Row 8: SUCCESS
+[2026-08-25 11:38:54] INFO: Processing Row 9: Value Education
+[2026-08-25 11:38:55] INFO: Row 9: SUCCESS
+[2026-08-25 11:38:55] INFO: Processing Row 10: Value Education
+[2026-08-25 11:38:57] INFO: Row 10: SUCCESS
+[2026-08-25 11:38:57] INFO: Processing Row 11: Library
+[2026-08-25 11:38:58] INFO: Row 11: SUCCESS
+[2026-08-25 11:38:58] INFO: Processing Row 12: Library
+[2026-08-25 11:38:59] INFO: Row 12: SUCCESS
+[2026-08-25 11:38:59] INFO: Processing Row 13: Library
+[2026-08-25 11:39:00] INFO: Row 13: SUCCESS
+[2026-08-25 11:39:00] INFO: Processing Row 14: Library
+[2026-08-25 11:39:01] INFO: Row 14: SUCCESS
+[2026-08-25 11:39:01] INFO: Processing Row 15: Library
+[2026-08-25 11:39:02] INFO: Row 15: SUCCESS
+[2026-08-25 11:39:02] INFO: Processing Row 16: Library
+[2026-08-25 11:39:04] INFO: Row 16: SUCCESS
+[2026-08-25 11:39:04] INFO: Report generated successfully at: D:\play\reports\SubjectCreation_Report.xlsx
+[2026-08-28 10:35:17] INFO: Starting Automation...
+[2026-08-28 10:35:18] INFO: Excel Loaded Successfully
+[2026-08-28 10:35:18] INFO: Total Records : 30
+[2026-08-28 10:35:18] INFO: Navigating to Login Page...
+[2026-08-28 10:35:19] INFO: Entering credentials...
+[2026-08-28 10:35:19] INFO: Clicking Login button...
+[2026-08-28 10:35:20] INFO: Login successful.
+[2026-08-28 10:35:20] INFO: Navigating to Subjects Section...
+[2026-08-28 10:35:20] INFO: Already on Subjects page.
+[2026-08-28 10:35:20] INFO: Processing Row 2: Course English
+[2026-08-28 10:35:21] INFO: Row 2: SUCCESS
+[2026-08-28 10:35:21] INFO: Processing Row 3: English Speaking & Conversation
+[2026-08-28 10:35:22] INFO: Row 3: SUCCESS
+[2026-08-28 10:35:22] INFO: Processing Row 4: English Reading
+[2026-08-28 10:35:24] INFO: Row 4: SUCCESS
+[2026-08-28 10:35:24] INFO: Processing Row 5: Library
+[2026-08-28 10:35:25] INFO: Row 5: SUCCESS
+[2026-08-28 10:35:25] INFO: Processing Row 6: Quran
+[2026-08-28 10:35:26] INFO: Row 6: SUCCESS
+[2026-08-28 10:35:26] INFO: Processing Row 7: Mathematics
+[2026-08-28 10:35:28] INFO: Row 7: SUCCESS
+[2026-08-28 10:35:28] INFO: Processing Row 8: Data Entry
+[2026-08-28 10:35:29] INFO: Row 8: SUCCESS
+[2026-08-28 10:35:29] INFO: Processing Row 9: Arabic
+[2026-08-28 10:35:30] INFO: Row 9: SUCCESS
+[2026-08-28 10:35:30] INFO: Processing Row 10: Urdu
+[2026-08-28 10:35:31] INFO: Row 10: SUCCESS
+[2026-08-28 10:35:31] INFO: Processing Row 11: Cousre English
+[2026-08-28 10:35:32] INFO: Row 11: SUCCESS
+[2026-08-28 10:35:32] INFO: Processing Row 12: English Speaking & Conversation
+[2026-08-28 10:35:33] INFO: Row 12: SUCCESS
+[2026-08-28 10:35:33] INFO: Processing Row 13: English Reading
+[2026-08-28 10:35:34] INFO: Row 13: SUCCESS
+[2026-08-28 10:35:34] INFO: Processing Row 14: Library
+[2026-08-28 10:35:35] INFO: Row 14: SUCCESS
+[2026-08-28 10:35:35] INFO: Processing Row 15: Quran
+[2026-08-28 10:35:36] INFO: Row 15: SUCCESS
+[2026-08-28 10:35:36] INFO: Processing Row 16: Mathematics
+[2026-08-28 10:35:37] INFO: Row 16: SUCCESS
+[2026-08-28 10:35:37] INFO: Processing Row 17: Data Entry
+[2026-08-28 10:35:38] INFO: Row 17: SUCCESS
+[2026-08-28 10:35:38] INFO: Processing Row 18: Arabic language
+[2026-08-28 10:35:39] INFO: Row 18: SUCCESS
+[2026-08-28 10:35:39] INFO: Processing Row 19: Urdu
+[2026-08-28 10:35:40] INFO: Row 19: SUCCESS
+[2026-08-28 10:35:40] INFO: Processing Row 20: Psychology
+[2026-08-28 10:35:41] INFO: Row 20: SUCCESS
+[2026-08-28 10:35:41] INFO: Processing Row 21: Arabic Grammar
+[2026-08-28 10:35:43] INFO: Row 21: SUCCESS
+[2026-08-28 10:35:43] INFO: Processing Row 22: Course English
+[2026-08-28 10:35:44] INFO: Row 22: SUCCESS
+[2026-08-28 10:35:44] INFO: Processing Row 23: English Speaking & Conversation
+[2026-08-28 10:35:45] INFO: Row 23: SUCCESS
+[2026-08-28 10:35:45] INFO: Processing Row 24: English Reading
+[2026-08-28 10:35:46] INFO: Row 24: SUCCESS
+[2026-08-28 10:35:46] INFO: Processing Row 25: Library
+[2026-08-28 10:35:49] INFO: Row 25: SUCCESS
+[2026-08-28 10:35:49] INFO: Processing Row 26: Quran
+[2026-08-28 10:35:51] INFO: Row 26: SUCCESS
+[2026-08-28 10:35:51] INFO: Processing Row 27: Mathematics
+[2026-08-28 10:35:53] INFO: Row 27: SUCCESS
+[2026-08-28 10:35:53] INFO: Processing Row 28: Data Entry
+[2026-08-28 10:35:54] INFO: Row 28: SUCCESS
+[2026-08-28 10:35:54] INFO: Processing Row 29: Arabic
+[2026-08-28 10:35:55] INFO: Row 29: SUCCESS
+[2026-08-28 10:35:55] INFO: Processing Row 30: Urdu
+[2026-08-28 10:35:56] INFO: Row 30: SUCCESS
+[2026-08-28 10:35:56] INFO: Processing Row 31: Arabic Grammar
+[2026-08-28 10:35:57] INFO: Row 31: SUCCESS
+[2026-08-28 10:35:57] INFO: Report generated successfully at: D:\play\reports\SubjectCreation_Report.xlsx
+[2026-08-31 15:09:41] INFO: Starting Automation...
+[2026-08-31 15:09:42] INFO: Excel Loaded Successfully
+[2026-08-31 15:09:42] INFO: Total Records : 58
+[2026-08-31 15:09:42] INFO: Navigating to Login Page...
+[2026-08-31 15:09:43] INFO: Entering credentials...
+[2026-08-31 15:09:43] INFO: Clicking Login button...
+[2026-08-31 15:09:44] INFO: Login successful.
+[2026-08-31 15:09:44] INFO: Navigating to Subjects Section...
+[2026-08-31 15:09:44] INFO: Already on Subjects page.
+[2026-08-31 15:09:44] INFO: Processing Row 2: Writing
+[2026-08-31 15:09:45] INFO: Row 2: SUCCESS
+[2026-08-31 15:09:45] INFO: Processing Row 3: Reading
+[2026-08-31 15:09:46] INFO: Row 3: SUCCESS
+[2026-08-31 15:09:46] INFO: Processing Row 4: General Awareness
+[2026-08-31 15:09:47] INFO: Row 4: SUCCESS
+[2026-08-31 15:09:47] INFO: Processing Row 5: Mathematics
+[2026-08-31 15:09:48] INFO: Row 5: SUCCESS
+[2026-08-31 15:09:48] INFO: Processing Row 6: Physical Development
+[2026-08-31 15:09:50] INFO: Row 6: SUCCESS
+[2026-08-31 15:09:50] INFO: Processing Row 7: Communication Skills
+[2026-08-31 15:09:51] INFO: Row 7: SUCCESS
+[2026-08-31 15:09:51] INFO: Processing Row 8: SPEAKING SKILLS
+[2026-08-31 15:09:53] INFO: Row 8: SUCCESS
+[2026-08-31 15:09:53] INFO: Processing Row 9: Rhymes
+[2026-08-31 15:09:54] INFO: Row 9: SUCCESS
+[2026-08-31 15:09:54] INFO: Processing Row 10: Writing
+[2026-08-31 15:09:55] INFO: Row 10: SUCCESS
+[2026-08-31 15:09:55] INFO: Processing Row 11: Reading
+[2026-08-31 15:09:57] INFO: Row 11: SUCCESS
+[2026-08-31 15:09:57] INFO: Processing Row 12: General Awareness
+[2026-08-31 15:09:58] INFO: Row 12: SUCCESS
+[2026-08-31 15:09:58] INFO: Processing Row 13: Mathematics
+[2026-08-31 15:10:00] INFO: Row 13: SUCCESS
+[2026-08-31 15:10:00] INFO: Processing Row 14: Physical Development
+[2026-08-31 15:10:03] INFO: Row 14: SUCCESS
+[2026-08-31 15:10:03] INFO: Processing Row 15: Communication Skills
+[2026-08-31 15:10:05] INFO: Row 15: SUCCESS
+[2026-08-31 15:10:05] INFO: Processing Row 16: SPEAKING SKILLS
+[2026-08-31 15:10:07] INFO: Row 16: SUCCESS
+[2026-08-31 15:10:07] INFO: Processing Row 17: Rhymes
+[2026-08-31 15:10:09] INFO: Row 17: SUCCESS
+[2026-08-31 15:10:09] INFO: Processing Row 18: Writing
+[2026-08-31 15:10:10] INFO: Row 18: SUCCESS
+[2026-08-31 15:10:10] INFO: Processing Row 19: Reading
+[2026-08-31 15:10:12] INFO: Row 19: SUCCESS
+[2026-08-31 15:10:12] INFO: Processing Row 20: General Awareness
+[2026-08-31 15:10:13] INFO: Row 20: SUCCESS
+[2026-08-31 15:10:13] INFO: Processing Row 21: Mathematics
+[2026-08-31 15:10:14] INFO: Row 21: SUCCESS
+[2026-08-31 15:10:14] INFO: Processing Row 22: Physical Development
+[2026-08-31 15:10:15] INFO: Row 22: SUCCESS
+[2026-08-31 15:10:15] INFO: Processing Row 23: Communication Skills
+[2026-08-31 15:10:17] INFO: Row 23: SUCCESS
+[2026-08-31 15:10:17] INFO: Processing Row 24: SPEAKING SKILLS
+[2026-08-31 15:10:18] INFO: Row 24: SUCCESS
+[2026-08-31 15:10:18] INFO: Processing Row 25: Kannada
+[2026-08-31 15:10:19] INFO: Row 25: SUCCESS
+[2026-08-31 15:10:19] INFO: Processing Row 26: Urdu
+[2026-08-31 15:10:20] INFO: Row 26: SUCCESS
+[2026-08-31 15:10:20] INFO: Processing Row 27: English
+[2026-08-31 15:10:21] INFO: Row 27: SUCCESS
+[2026-08-31 15:10:21] INFO: Processing Row 28: Mathematics
+[2026-08-31 15:10:23] INFO: Row 28: SUCCESS
+[2026-08-31 15:10:23] INFO: Processing Row 29: EVS
+[2026-08-31 15:10:24] INFO: Row 29: SUCCESS
+[2026-08-31 15:10:24] INFO: Processing Row 30: Urdu
+[2026-08-31 15:10:25] INFO: Row 30: SUCCESS
+[2026-08-31 15:10:25] INFO: Processing Row 31: Kannada
+[2026-08-31 15:10:26] INFO: Row 31: SUCCESS
+[2026-08-31 15:10:26] INFO: Processing Row 32: Reading Lobes
+[2026-08-31 15:10:27] INFO: Row 32: SUCCESS
+[2026-08-31 15:10:27] INFO: Processing Row 33: SPEAKING SKILLS
+[2026-08-31 15:10:28] INFO: Row 33: SUCCESS
+[2026-08-31 15:10:28] INFO: Processing Row 34: Physical Development
+[2026-08-31 15:10:29] INFO: Row 34: SUCCESS
+[2026-08-31 15:10:29] INFO: Processing Row 35: Communication Skills
+[2026-08-31 15:10:30] INFO: Row 35: SUCCESS
+[2026-08-31 15:10:30] INFO: Processing Row 36: Arts
+[2026-08-31 15:10:32] INFO: Row 36: SUCCESS
+[2026-08-31 15:10:32] INFO: Processing Row 37: English
+[2026-08-31 15:10:33] INFO: Row 37: SUCCESS
+[2026-08-31 15:10:33] INFO: Processing Row 38: Mathematics
+[2026-08-31 15:10:34] INFO: Row 38: SUCCESS
+[2026-08-31 15:10:34] INFO: Processing Row 39: EVS
+[2026-08-31 15:10:35] INFO: Row 39: SUCCESS
+[2026-08-31 15:10:35] INFO: Processing Row 40: Urdu
+[2026-08-31 15:10:36] INFO: Row 40: SUCCESS
+[2026-08-31 15:10:36] INFO: Processing Row 41: Kannada
+[2026-08-31 15:10:37] INFO: Row 41: SUCCESS
+[2026-08-31 15:10:37] INFO: Processing Row 42: Reading Lobes
+[2026-08-31 15:10:38] INFO: Row 42: SUCCESS
+[2026-08-31 15:10:38] INFO: Processing Row 43: SPEAKING SKILLS
+[2026-08-31 15:10:39] INFO: Row 43: SUCCESS
+[2026-08-31 15:10:39] INFO: Processing Row 44: Physical Development
+[2026-08-31 15:10:41] INFO: Row 44: SUCCESS
+[2026-08-31 15:10:41] INFO: Processing Row 45: Communication Skills
+[2026-08-31 15:10:42] INFO: Row 45: SUCCESS
+[2026-08-31 15:10:42] INFO: Processing Row 46: Arts
+[2026-08-31 15:10:43] INFO: Row 46: SUCCESS
+[2026-08-31 15:10:43] INFO: Processing Row 47: Handwriting
+[2026-08-31 15:10:44] INFO: Row 47: SUCCESS
+[2026-08-31 15:10:44] INFO: Processing Row 48: English
+[2026-08-31 15:10:45] INFO: Row 48: SUCCESS
+[2026-08-31 15:10:45] INFO: Processing Row 49: Mathematics
+[2026-08-31 15:10:48] INFO: Row 49: SUCCESS
+[2026-08-31 15:10:48] INFO: Processing Row 50: EVS
+[2026-08-31 15:10:49] INFO: Row 50: SUCCESS
+[2026-08-31 15:10:49] INFO: Processing Row 51: Urdu
+[2026-08-31 15:10:50] INFO: Row 51: SUCCESS
+[2026-08-31 15:10:50] INFO: Processing Row 52: Kannada
+[2026-08-31 15:10:51] INFO: Row 52: SUCCESS
+[2026-08-31 15:10:51] INFO: Processing Row 53: Reading Lobes
+[2026-08-31 15:10:52] INFO: Row 53: SUCCESS
+[2026-08-31 15:10:52] INFO: Processing Row 54: SPEAKING SKILLS
+[2026-08-31 15:10:53] INFO: Row 54: SUCCESS
+[2026-08-31 15:10:53] INFO: Processing Row 55: Physical Development
+[2026-08-31 15:10:54] INFO: Row 55: SUCCESS
+[2026-08-31 15:10:54] INFO: Processing Row 56: Communication Skills
+[2026-08-31 15:10:55] INFO: Row 56: SUCCESS
+[2026-08-31 15:10:55] INFO: Processing Row 57: Arts
+[2026-08-31 15:10:56] INFO: Row 57: SUCCESS
+[2026-08-31 15:10:56] INFO: Processing Row 58: Computer
+[2026-08-31 15:10:57] INFO: Row 58: SUCCESS
+[2026-08-31 15:10:57] INFO: Processing Row 59: GK
+[2026-08-31 15:10:59] INFO: Row 59: SUCCESS
+[2026-08-31 15:10:59] INFO: Report generated successfully at: D:\play\reports\SubjectCreation_Report.xlsx
+[2026-08-31 15:18:39] INFO: Starting Automation...
+[2026-08-31 15:18:39] INFO: Excel Loaded Successfully
+[2026-08-31 15:18:39] INFO: Total Records : 1
+[2026-08-31 15:18:39] INFO: Navigating to Login Page...
+[2026-08-31 15:18:40] INFO: Entering credentials...
+[2026-08-31 15:18:40] INFO: Clicking Login button...
+[2026-08-31 15:18:41] INFO: Login successful.
+[2026-08-31 15:18:41] INFO: Navigating to Subjects Section...
+[2026-08-31 15:18:41] INFO: Already on Subjects page.
+[2026-08-31 15:18:41] INFO: Processing Row 2: GK
+[2026-08-31 15:18:42] INFO: Row 2: SUCCESS
+[2026-08-31 15:18:42] INFO: Report generated successfully at: D:\play\reports\SubjectCreation_Report.xlsx
+[2026-08-31 15:20:02] INFO: Starting Automation...
+[2026-08-31 15:20:04] INFO: Excel Loaded Successfully
+[2026-08-31 15:20:04] INFO: Total Records : 1
+[2026-08-31 15:20:04] INFO: Navigating to Login Page...
+[2026-08-31 15:20:07] INFO: Entering credentials...
+[2026-08-31 15:20:07] INFO: Clicking Login button...
+[2026-08-31 15:20:08] INFO: Login successful.
+[2026-08-31 15:20:08] INFO: Navigating to Subjects Section...
+[2026-08-31 15:20:08] INFO: Already on Subjects page.
+[2026-08-31 15:20:08] INFO: Processing Row 2: GK
+[2026-08-31 15:20:09] INFO: Row 2: SUCCESS
+[2026-08-31 15:20:10] INFO: Report generated successfully at: D:\play\reports\SubjectCreation_Report.xlsx
+[2026-09-16 15:49:47] INFO: Starting Automation...
+[2026-09-16 15:49:49] INFO: Excel Loaded Successfully
+[2026-09-16 15:49:49] INFO: Total Records : 26
+[2026-09-16 15:49:49] INFO: Navigating to Login Page...
+[2026-09-16 15:49:57] INFO: Entering credentials...
+[2026-09-16 15:49:57] INFO: Clicking Login button...
+[2026-09-16 15:49:59] INFO: Login successful.
+[2026-09-16 15:49:59] INFO: Navigating to Subjects Section...
+[2026-09-16 15:49:59] INFO: Already on Subjects page.
+[2026-09-16 15:49:59] INFO: Processing Row 2: Reading Lobes
+[2026-09-16 15:50:01] INFO: Row 2: SUCCESS
+[2026-09-16 15:50:01] INFO: Processing Row 3: Reading Lobes
+[2026-09-16 15:50:02] INFO: Row 3: SUCCESS
+[2026-09-16 15:50:02] INFO: Processing Row 4: Reading Lobes
+[2026-09-16 15:50:04] INFO: Row 4: SUCCESS
+[2026-09-16 15:50:04] INFO: Processing Row 5: Reading Lobes
+[2026-09-16 15:50:06] INFO: Row 5: SUCCESS
+[2026-09-16 15:50:06] INFO: Processing Row 6: Reading Lobes
+[2026-09-16 15:50:08] INFO: Row 6: SUCCESS
+[2026-09-16 15:50:08] INFO: Processing Row 7: Reading Lobes
+[2026-09-16 15:50:09] INFO: Row 7: SUCCESS
+[2026-09-16 15:50:09] INFO: Processing Row 8: Reading Lobes
+[2026-09-16 15:50:11] INFO: Row 8: SUCCESS
+[2026-09-16 15:50:11] INFO: Processing Row 9: Reading Lobes
+[2026-09-16 15:50:13] INFO: Row 9: SUCCESS
+[2026-09-16 15:50:13] INFO: Processing Row 10: Reading Lobes
+[2026-09-16 15:50:16] INFO: Row 10: SUCCESS
+[2026-09-16 15:50:16] INFO: Processing Row 11: Reading Lobes
+[2026-09-16 15:50:17] INFO: Row 11: SUCCESS
+[2026-09-16 15:50:17] INFO: Processing Row 12: Reading Lobes
+[2026-09-16 15:50:19] INFO: Row 12: SUCCESS
+[2026-09-16 15:50:19] INFO: Processing Row 13: Cursive Writing
+[2026-09-16 15:50:22] INFO: Row 13: SUCCESS
+[2026-09-16 15:50:22] INFO: Processing Row 14: Cursive Writing
+[2026-09-16 15:50:23] INFO: Row 14: SUCCESS
+[2026-09-16 15:50:23] INFO: Processing Row 15: Cursive Writing
+[2026-09-16 15:50:24] INFO: Row 15: SUCCESS
+[2026-09-16 15:50:24] INFO: Processing Row 16: Cursive Writing
+[2026-09-16 15:50:26] INFO: Row 16: SUCCESS
+[2026-09-16 15:50:26] INFO: Processing Row 17: Cursive Writing
+[2026-09-16 15:50:27] INFO: Row 17: SUCCESS
+[2026-09-16 15:50:27] INFO: Processing Row 18: Cursive Writing
+[2026-09-16 15:50:28] INFO: Row 18: SUCCESS
+[2026-09-16 15:50:28] INFO: Processing Row 19: Cursive Writing
+[2026-09-16 15:50:30] INFO: Row 19: SUCCESS
+[2026-09-16 15:50:30] INFO: Processing Row 20: Rhymes
+[2026-09-16 15:50:31] INFO: Row 20: SUCCESS
+[2026-09-16 15:50:31] INFO: Processing Row 21: Rhymes
+[2026-09-16 15:50:32] INFO: Row 21: SUCCESS
+[2026-09-16 15:50:32] INFO: Processing Row 22: Hindi Writing
+[2026-09-16 15:50:33] INFO: Row 22: SUCCESS
+[2026-09-16 15:50:33] INFO: Processing Row 23: Hindi Writing
+[2026-09-16 15:50:34] INFO: Row 23: SUCCESS
+[2026-09-16 15:50:34] INFO: Processing Row 24: English Writing
+[2026-09-16 15:50:35] INFO: Row 24: SUCCESS
+[2026-09-16 15:50:35] INFO: Processing Row 25: English Writing
+[2026-09-16 15:50:37] INFO: Row 25: SUCCESS
+[2026-09-16 15:50:37] INFO: Processing Row 26: Maths Writing
+[2026-09-16 15:50:38] INFO: Row 26: SUCCESS
+[2026-09-16 15:50:38] INFO: Processing Row 27: Maths Writing
+[2026-09-16 15:50:39] INFO: Row 27: SUCCESS
+[2026-09-16 15:50:39] INFO: Report generated successfully at: D:\play - original\reports\SubjectCreation_Report.xlsx
